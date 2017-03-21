@@ -1,0 +1,3042 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fraction Premium Theme v1.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-01-06 18:29:13+0000\n"
+"Last-Translator: admin <gmdominicana@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:28
+#@ fraction
+msgid "404"
+msgstr ""
+
+#: 404.php:30
+#@ fraction
+msgid "Page Not Found"
+msgstr "Página no encontrada"
+
+#: 404.php:32
+#: includes/loop/no-post.php:19
+#@ fraction
+msgid "You must be lost or we just have lost this<br/>page You were looking for. Sorry about that."
+msgstr ""
+
+#: 404.php:34
+#: includes/loop/no-post.php:21
+#: includes/top.php:50
+#@ fraction
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:36
+#: includes/loop/no-post.php:23
+#@ fraction
+msgid "Contact Us"
+msgstr ""
+
+#: comments.php:6
+#@ fraction
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+#@ fraction
+msgid "No Comments so far"
+msgstr "No hay comentarios hasta el momento"
+
+#: comments.php:23
+#@ fraction
+msgid "1 Comment so far"
+msgstr "1 comentario hasta el momento"
+
+#: comments.php:23
+#@ fraction
+msgid "% Comments so far"
+msgstr "% comentarios hasta el momento"
+
+#: comments.php:24
+#@ fraction
+msgid "Jump into a conversation"
+msgstr "Salta a una conversación"
+
+#: comments.php:47
+#@ fraction
+msgid "No Comments Yet!"
+msgstr "No Hay Comentarios Todavia!"
+
+#: comments.php:48
+#@ fraction
+msgid "You can be the one to <a href=\"#writecomment\">start a conversation</a>."
+msgstr "Puedes ser el primero en <a href=\"#writecomment\">iniciar una conversación</a>."
+
+#: comments.php:57
+#, php-format
+#@ fraction
+msgid "Only <a href=\"%1$s\"> registered </a> users can comment."
+msgstr "Solo usuarios <a href=\"%1$s\"> registrados </a> pueden comentar.\t"
+
+#: comments.php:62
+#@ fraction
+msgid "Comment"
+msgstr "Comentario"
+
+#: comments.php:62
+#@ fraction
+msgid "Comment text.."
+msgstr "Texto del comentario"
+
+#: comments.php:70
+#@ fraction
+msgid "Post a Comment"
+msgstr "Publica un comentario"
+
+#: footer.php:68
+#@ fraction
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:82
+#: includes/_lightbox-gallery.php:3
+#@ fraction
+msgid "Close Window"
+msgstr ""
+
+#: footer.php:84
+#@ fraction
+msgid "Loading, Please Wait!"
+msgstr ""
+
+#: footer.php:85
+#@ fraction
+msgid "This may take a second or two."
+msgstr ""
+
+#: footer.php:86
+#@ fraction
+msgid "Loading"
+msgstr ""
+
+#: functions/ajax.php:388
+#@ fraction
+msgid "From"
+msgstr ""
+
+#: functions/ajax.php:388
+#@ fraction
+msgid "Contact Page"
+msgstr ""
+
+#: functions/ajax.php:401
+#@ fraction
+msgid "Message:"
+msgstr ""
+
+#: functions/ajax.php:403
+#@ fraction
+msgid "Name:"
+msgstr ""
+
+#: functions/ajax.php:404
+#@ fraction
+msgid "Url:"
+msgstr ""
+
+#: functions/ajax.php:405
+#@ fraction
+msgid "E-mail:"
+msgstr ""
+
+#: functions/ajax.php:406
+#@ fraction
+msgid "IP Address:"
+msgstr ""
+
+#. translators: %s: title of menu item which is invalid
+#: functions/custom-admin-menu.php:126
+#, php-format
+#@ fraction
+msgid "%s (Invalid)"
+msgstr ""
+
+#. translators: %s: title of menu item in draft status
+#: functions/custom-admin-menu.php:130
+#, php-format
+#@ fraction
+msgid "%s (Pending)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:154
+#@ default
+msgid "Move up"
+msgstr ""
+
+#: functions/custom-admin-menu.php:167
+#@ default
+msgid "Move down"
+msgstr ""
+
+#: functions/custom-admin-menu.php:169
+#: functions/custom-admin-menu.php:171
+#@ default
+#@ fraction
+msgid "Edit Menu Item"
+msgstr ""
+
+#: functions/custom-admin-menu.php:180
+#@ fraction
+msgid "URL"
+msgstr ""
+
+#: functions/custom-admin-menu.php:187
+#@ fraction
+msgid "Navigation Label"
+msgstr ""
+
+#: functions/custom-admin-menu.php:193
+#@ fraction
+msgid "Title Attribute"
+msgstr ""
+
+#: functions/custom-admin-menu.php:200
+#@ fraction
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: functions/custom-admin-menu.php:205
+#@ fraction
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:211
+#@ fraction
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:217
+#@ fraction
+msgid "Description"
+msgstr "Descripción"
+
+#: functions/custom-admin-menu.php:219
+#@ fraction
+msgid "The description will be displayed in the menu if the current theme supports it."
+msgstr ""
+
+#: functions/custom-admin-menu.php:232
+#@ fraction
+msgid "Show The Color Line In Main Menu Parent Item (Only Pages/Categories)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:238
+#@ fraction
+msgid "Main menu type ( only menu parent item, more info <a href=\"http://fraction.orange-themes.com/documentation/#mega-menu\" target=\"_blank\">here</a> )"
+msgstr ""
+
+#: functions/custom-admin-menu.php:240
+#: functions/custom-admin-menu.php:254
+#: includes/theme-config.php:1646
+#@ fraction
+msgid "Default"
+msgstr ""
+
+#: functions/custom-admin-menu.php:241
+#@ fraction
+msgid "Mega Menu With Posts"
+msgstr ""
+
+#: functions/custom-admin-menu.php:242
+#@ fraction
+msgid "Mega Menu With Widgets"
+msgstr ""
+
+#: functions/custom-admin-menu.php:248
+#@ fraction
+msgid "Sidebar for widget mega menu"
+msgstr ""
+
+#: functions/custom-admin-menu.php:283
+#, php-format
+#@ fraction
+msgid "Original: %s"
+msgstr ""
+
+#: functions/custom-admin-menu.php:296
+#: functions/tax-meta-class/tax-meta-class.php:583
+#: functions/tax-meta-class/tax-meta-class.php:630
+#@ fraction
+#@ tax-meta
+msgid "Remove"
+msgstr ""
+
+#: functions/custom-admin-menu.php:297
+#@ fraction
+msgid "Cancel"
+msgstr ""
+
+#: functions/drag-drop.php:13
+#@ fraction
+msgid "Homepage Blocks:"
+msgstr ""
+
+#: functions/drag-drop.php:17
+#: functions/drag-drop.php:45
+#@ fraction
+msgid "Latest News Blocks"
+msgstr ""
+
+#: functions/drag-drop.php:20
+#: functions/drag-drop.php:76
+#@ fraction
+msgid "3 posts in row"
+msgstr ""
+
+#: functions/drag-drop.php:23
+#: functions/drag-drop.php:51
+#: functions/drag-drop.php:78
+#: functions/drag-drop.php:105
+#: functions/drag-drop.php:132
+#: functions/drag-drop.php:169
+#: functions/drag-drop.php:214
+#: includes/widgets/widget-ad160x600.php:119
+#: includes/widgets/widget-ad300x250.php:120
+#: includes/widgets/widget-fraction-aweber.php:65
+#: includes/widgets/widget-fraction-contact.php:30
+#: includes/widgets/widget-fraction-gallery.php:21
+#: includes/widgets/widget-fraction-latest-posts.php:25
+#: includes/widgets/widget-fraction-popular-posts.php:23
+#: includes/widgets/widget-fraction-reviews.php:25
+#: includes/widgets/widget-fraction-social.php:21
+#@ fraction
+msgid "Title:"
+msgstr ""
+
+#: functions/drag-drop.php:24
+#: functions/drag-drop.php:52
+#: functions/drag-drop.php:79
+#: functions/drag-drop.php:106
+#: functions/drag-drop.php:133
+#: functions/drag-drop.php:170
+#: functions/drag-drop.php:215
+#: functions/fraction-menu.php:419
+#@ fraction
+msgid "Subtitle:"
+msgstr ""
+
+#: functions/drag-drop.php:25
+#: functions/drag-drop.php:53
+#: functions/drag-drop.php:80
+#: functions/drag-drop.php:107
+#: functions/drag-drop.php:134
+#: functions/drag-drop.php:171
+#: functions/drag-drop.php:216
+#@ fraction
+msgid "Count:"
+msgstr ""
+
+#: functions/drag-drop.php:30
+#: functions/drag-drop.php:58
+#: functions/drag-drop.php:85
+#: functions/drag-drop.php:112
+#: functions/drag-drop.php:137
+#: functions/drag-drop.php:176
+#: functions/drag-drop.php:221
+#@ fraction
+msgid "Set Category"
+msgstr ""
+
+#: functions/drag-drop.php:33
+#: functions/drag-drop.php:61
+#: functions/drag-drop.php:88
+#: functions/drag-drop.php:115
+#: functions/drag-drop.php:142
+#: functions/drag-drop.php:179
+#: functions/drag-drop.php:224
+#@ fraction
+msgid "From which post should start the loop (for example 4 ), for default leave it empty, or add 0. (Offset):"
+msgstr ""
+
+#: functions/drag-drop.php:37
+#: functions/drag-drop.php:65
+#: functions/drag-drop.php:92
+#: functions/drag-drop.php:119
+#: functions/drag-drop.php:183
+#@ fraction
+msgid "Block Title Border Color:"
+msgstr ""
+
+#: functions/drag-drop.php:48
+#: functions/drag-drop.php:103
+#@ fraction
+msgid "Large image left"
+msgstr ""
+
+#: functions/drag-drop.php:73
+#: functions/drag-drop.php:100
+#@ fraction
+msgid "Popular News"
+msgstr ""
+
+#: functions/drag-drop.php:127
+#: includes/widgets/widget-fraction-reviews.php:6
+#: includes/widgets/widget-fraction-reviews.php:12
+#@ fraction
+msgid "Reviews"
+msgstr ""
+
+#: functions/drag-drop.php:130
+#@ fraction
+msgid "Latest/Top reviews."
+msgstr ""
+
+#: functions/drag-drop.php:145
+#: functions/drag-drop.php:227
+#: includes/widgets/widget-fraction-reviews.php:46
+#@ fraction
+msgid "Type:"
+msgstr ""
+
+#: functions/drag-drop.php:148
+#: includes/widgets/widget-fraction-reviews.php:48
+#@ fraction
+msgid "Latest Reviews"
+msgstr ""
+
+#: functions/drag-drop.php:149
+#: includes/widgets/widget-fraction-reviews.php:49
+#@ fraction
+msgid "Top Reviews"
+msgstr ""
+
+#: functions/drag-drop.php:156
+#: functions/drag-drop.php:238
+#: includes/admin/style.php:147
+#: includes/admin/style.php:165
+#: includes/admin/style.php:191
+#@ fraction
+msgid "Color:"
+msgstr ""
+
+#: functions/drag-drop.php:163
+#: includes/widgets/widget-fraction-gallery.php:6
+#: includes/widgets/widget-fraction-gallery.php:12
+#@ fraction
+msgid "Latest Galleries"
+msgstr ""
+
+#: functions/drag-drop.php:166
+#@ fraction
+msgid "Latest Galleries Slider"
+msgstr ""
+
+#: functions/drag-drop.php:191
+#@ fraction
+msgid "Category News"
+msgstr ""
+
+#: functions/drag-drop.php:194
+#@ fraction
+msgid "Latest News By Categories"
+msgstr ""
+
+#: functions/drag-drop.php:196
+#@ fraction
+msgid "Post Count:"
+msgstr ""
+
+#: functions/drag-drop.php:209
+#@ fraction
+msgid "Shop"
+msgstr ""
+
+#: functions/drag-drop.php:212
+#@ fraction
+msgid "Shop Items"
+msgstr ""
+
+#: functions/drag-drop.php:230
+#@ fraction
+msgid "Latest"
+msgstr ""
+
+#: functions/drag-drop.php:231
+#@ fraction
+msgid "Featured"
+msgstr ""
+
+#: functions/drag-drop.php:248
+#@ fraction
+msgid "Custom HTML/Shortcodes Block"
+msgstr ""
+
+#: functions/drag-drop.php:250
+#: functions/drag-drop.php:259
+#@ fraction
+msgid "HTML Code:"
+msgstr ""
+
+#: functions/drag-drop.php:257
+#@ fraction
+msgid "Supports HTML,CSS and Javascript."
+msgstr ""
+
+#: functions/filters.php:192
+#: template-contact.php:46
+#: template-contact.php:47
+#@ fraction
+msgid "Nickname"
+msgstr "Nombre"
+
+#: functions/filters.php:193
+#: template-contact.php:51
+#: template-contact.php:52
+#@ fraction
+msgid "E-mail"
+msgstr "Correo"
+
+#: functions/filters.php:194
+#: template-contact.php:56
+#: template-contact.php:57
+#@ fraction
+msgid "Website"
+msgstr ""
+
+#: functions/filters.php:204
+#: template-contact.php:38
+#@ fraction
+msgid "Your data will be safe!"
+msgstr "Tus datos estarán a salvo!"
+
+#: functions/filters.php:204
+#@ fraction
+msgid "Your e-mail address will not be published. Also other data will not be shared with third person."
+msgstr "Tu dirección de correo electrónico no será publicada. También otros datos no serán compartidos con terceras personas."
+
+#: functions/filters.php:230
+#@ fraction
+msgid "by "
+msgstr "Por "
+
+#: functions/filters.php:235
+#@ fraction
+msgid "by"
+msgstr "Por"
+
+#: functions/fraction-menu.php:13
+#@ fraction
+msgid "Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:26
+#: includes/admin/general.php:18
+#@ fraction
+msgid "General"
+msgstr ""
+
+#: functions/fraction-menu.php:33
+#@ fraction
+msgid "Post/Page Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:39
+#: functions/fraction-menu.php:798
+#: functions/fraction-menu.php:829
+#: includes/admin/sidebar.php:18
+#@ fraction
+msgid "Sidebar"
+msgstr ""
+
+#: functions/fraction-menu.php:60
+#: includes/admin/style.php:318
+#@ fraction
+msgid "Blog Post Images/Video/Audio Size"
+msgstr ""
+
+#: functions/fraction-menu.php:67
+#@ fraction
+msgid "Large:"
+msgstr ""
+
+#: functions/fraction-menu.php:68
+#@ fraction
+msgid "Small:"
+msgstr ""
+
+#: functions/fraction-menu.php:88
+#@ fraction
+msgid "Show Image In Single Post / News Page"
+msgstr ""
+
+#: functions/fraction-menu.php:96
+#: functions/fraction-menu.php:127
+#: functions/fraction-menu.php:153
+#: functions/fraction-menu.php:179
+#: functions/fraction-menu.php:206
+#: functions/fraction-menu.php:234
+#: functions/fraction-menu.php:261
+#: functions/fraction-menu.php:287
+#: functions/fraction-menu.php:313
+#: functions/fraction-menu.php:339
+#: functions/fraction-menu.php:507
+#: functions/fraction-menu.php:518
+#: includes/admin/general.php:208
+#: includes/admin/general.php:230
+#: includes/admin/general.php:252
+#: includes/admin/general.php:274
+#: includes/admin/general.php:297
+#: includes/admin/general.php:320
+#: includes/admin/general.php:346
+#: includes/admin/general.php:370
+#: includes/admin/general.php:547
+#: includes/admin/general.php:570
+#: includes/admin/sidebar.php:86
+#@ fraction
+msgid "Show:"
+msgstr ""
+
+#: functions/fraction-menu.php:97
+#: functions/fraction-menu.php:128
+#: functions/fraction-menu.php:154
+#: functions/fraction-menu.php:180
+#: functions/fraction-menu.php:207
+#: functions/fraction-menu.php:235
+#: functions/fraction-menu.php:262
+#: functions/fraction-menu.php:288
+#: functions/fraction-menu.php:314
+#: functions/fraction-menu.php:340
+#: includes/admin/general.php:209
+#: includes/admin/general.php:231
+#: includes/admin/general.php:253
+#: includes/admin/general.php:275
+#: includes/admin/general.php:298
+#: includes/admin/general.php:321
+#: includes/admin/general.php:347
+#: includes/admin/general.php:371
+#: includes/admin/general.php:548
+#: includes/admin/general.php:571
+#@ fraction
+msgid "Hide:"
+msgstr ""
+
+#: functions/fraction-menu.php:120
+#@ fraction
+msgid "Post Author"
+msgstr ""
+
+#: functions/fraction-menu.php:146
+#@ fraction
+msgid "Post Date"
+msgstr ""
+
+#: functions/fraction-menu.php:172
+#@ fraction
+msgid "Post Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:198
+#: includes/admin/general.php:339
+#@ fraction
+msgid "Show Share Buttons"
+msgstr ""
+
+#: functions/fraction-menu.php:227
+#@ fraction
+msgid "Show Post Comments Count"
+msgstr ""
+
+#: functions/fraction-menu.php:254
+#@ fraction
+msgid "\"Similar News\" Block In Post"
+msgstr ""
+
+#: functions/fraction-menu.php:280
+#@ fraction
+msgid "\"About Author\" Block In Post"
+msgstr ""
+
+#: functions/fraction-menu.php:306
+#@ fraction
+msgid "\"Similar News\" Block In Gallery"
+msgstr ""
+
+#: functions/fraction-menu.php:332
+#@ fraction
+msgid "\"Similar News\" Block In Portfolio"
+msgstr ""
+
+#: functions/fraction-menu.php:357
+#@ fraction
+msgid "Show Breaking News Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:362
+#@ fraction
+msgid "Set Breaking News Slider Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:380
+#@ fraction
+msgid "Show Main Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:385
+#@ fraction
+msgid "Set Main News Slider Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:414
+#@ fraction
+msgid "Subtitle"
+msgstr ""
+
+#: functions/fraction-menu.php:434
+#@ fraction
+msgid "Homepage Posts"
+msgstr ""
+
+#: functions/fraction-menu.php:439
+#@ fraction
+msgid "Set Home News Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:455
+#: includes/news-single.php:72
+#@ fraction
+msgid "Spotlight"
+msgstr ""
+
+#: functions/fraction-menu.php:460
+#@ fraction
+msgid "Spotlight Post ID's:"
+msgstr ""
+
+#: functions/fraction-menu.php:461
+#@ fraction
+msgid "Add post ID that you want to see in Spotlight, separate them with ,<br/>Example: 1,2,5"
+msgstr ""
+
+#: functions/fraction-menu.php:476
+#@ fraction
+msgid "Image Hover Icon"
+msgstr ""
+
+#: functions/fraction-menu.php:481
+#@ fraction
+msgid "Icon:"
+msgstr ""
+
+#: functions/fraction-menu.php:487
+#@ fraction
+msgid "Text Under the Image Icon:"
+msgstr ""
+
+#: functions/fraction-menu.php:502
+#@ fraction
+msgid "Show This Post In Breaking News Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:513
+#@ fraction
+msgid "Show This Post In Main Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:533
+#@ fraction
+msgid "Show Title in Single View?"
+msgstr ""
+
+#: functions/fraction-menu.php:540
+#@ fraction
+msgid "Yes:"
+msgstr ""
+
+#: functions/fraction-menu.php:541
+#@ fraction
+msgid "No:"
+msgstr ""
+
+#: functions/fraction-menu.php:557
+#@ fraction
+msgid "Video/Audio Embed Code"
+msgstr ""
+
+#: functions/fraction-menu.php:562
+#@ fraction
+msgid "Vimeo, Youtube, Soundcould or Mixcould Embed Code:"
+msgstr ""
+
+#: functions/fraction-menu.php:576
+#@ fraction
+msgid "Review Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:582
+#: includes/single/post-ratings.php:54
+#@ fraction
+msgid "Overall"
+msgstr ""
+
+#: functions/fraction-menu.php:588
+#@ fraction
+msgid "Ratings"
+msgstr ""
+
+#: functions/fraction-menu.php:590
+#@ fraction
+msgid "Enter the ratings like this - Graphics:5; Gameplay:4,5; Sound:3; Storyline:4"
+msgstr ""
+
+#: functions/fraction-menu.php:605
+#@ fraction
+msgid "Contact Page Email"
+msgstr ""
+
+#: functions/fraction-menu.php:610
+#: includes/widgets/widget-fraction-contact.php:35
+#@ fraction
+msgid "Email:"
+msgstr ""
+
+#: functions/fraction-menu.php:625
+#@ fraction
+msgid "Contact Page Google Map"
+msgstr ""
+
+#: functions/fraction-menu.php:630
+#@ fraction
+msgid "Embed Code:"
+msgstr ""
+
+#: functions/fraction-menu.php:647
+#@ fraction
+msgid "Gallery Style"
+msgstr ""
+
+#: functions/fraction-menu.php:656
+#@ fraction
+msgid "Default:"
+msgstr ""
+
+#: functions/fraction-menu.php:657
+#@ fraction
+msgid "Lightbox:"
+msgstr ""
+
+#: functions/fraction-menu.php:675
+#@ fraction
+msgid "Post Banner"
+msgstr ""
+
+#: functions/fraction-menu.php:680
+#@ fraction
+msgid "Post Banner HTML Code"
+msgstr ""
+
+#: functions/fraction-menu.php:694
+#@ fraction
+msgid "Project Date"
+msgstr ""
+
+#: functions/fraction-menu.php:699
+#@ fraction
+msgid "Date"
+msgstr ""
+
+#: functions/fraction-menu.php:713
+#@ fraction
+msgid "Features"
+msgstr ""
+
+#: functions/fraction-menu.php:718
+#@ fraction
+msgid "Feautres"
+msgstr ""
+
+#: functions/fraction-menu.php:719
+#@ fraction
+msgid "Separate each feature with ;"
+msgstr ""
+
+#: functions/fraction-menu.php:733
+#@ fraction
+msgid "Button"
+msgstr ""
+
+#: functions/fraction-menu.php:738
+#@ fraction
+msgid "Button Title"
+msgstr ""
+
+#: functions/fraction-menu.php:744
+#@ fraction
+msgid "Button Subtitle"
+msgstr ""
+
+#: functions/fraction-menu.php:750
+#@ fraction
+msgid "Button Url"
+msgstr ""
+
+#: functions/fraction-menu.php:756
+#@ fraction
+msgid "Price"
+msgstr ""
+
+#: functions/fraction-menu.php:780
+#@ fraction
+msgid "Main Sidebar Side"
+msgstr ""
+
+#: functions/fraction-menu.php:786
+#: functions/fraction-menu.php:817
+#: includes/admin/sidebar.php:45
+#: includes/admin/sidebar.php:67
+#@ fraction
+msgid "Right:"
+msgstr ""
+
+#: functions/fraction-menu.php:787
+#: functions/fraction-menu.php:818
+#: includes/admin/sidebar.php:44
+#: includes/admin/sidebar.php:66
+#@ fraction
+msgid "Left:"
+msgstr ""
+
+#: functions/fraction-menu.php:794
+#@ fraction
+msgid "Main Sidebar Name"
+msgstr ""
+
+#: functions/fraction-menu.php:811
+#@ fraction
+msgid "Second Sidebar Side"
+msgstr ""
+
+#: functions/fraction-menu.php:825
+#@ fraction
+msgid "Second Sidebar Name"
+msgstr ""
+
+#: functions/fraction-menu.php:862
+#@ fraction
+msgid "Post Custom Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:954
+#@ fraction
+msgid "Security check"
+msgstr ""
+
+#: functions/fraction-menu.php:1010
+#@ fraction
+msgid "Main Slider Image"
+msgstr ""
+
+#: functions/fraction-menu.php:1010
+#: functions/fraction-menu.php:1011
+#@ fraction
+msgid "Image:"
+msgstr ""
+
+#: functions/fraction-menu.php:1011
+#@ fraction
+msgid "Reviews Block Image"
+msgstr ""
+
+#: functions/fraction-menu.php:1015
+#@ fraction
+msgid "Gallery Images"
+msgstr ""
+
+#: functions/fraction-menu.php:1019
+#@ fraction
+msgid "Portfolio Images"
+msgstr ""
+
+#: functions/fraction-menu.php:1027
+#@ fraction
+msgid "Homepage Builder"
+msgstr ""
+
+#: functions/nav.php:46
+#@ fraction
+msgid "Previous Page"
+msgstr "Página Anterior"
+
+#: functions/nav.php:47
+#@ fraction
+msgid "Next Page"
+msgstr "Siguiente Página"
+
+#: functions/nav.php:95
+#@ fraction
+msgid "Previous"
+msgstr ""
+
+#: functions/other.php:61
+#@ tax-meta
+msgid "Main Sidebar Position "
+msgstr ""
+
+#: functions/other.php:62
+#@ tax-meta
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/other.php:63
+#@ tax-meta
+msgid "Second Sidebar Position "
+msgstr ""
+
+#: functions/other.php:64
+#@ tax-meta
+msgid "Second Sidebar"
+msgstr ""
+
+#: functions/other.php:65
+#@ tax-meta
+msgid "Breaking News Slider"
+msgstr ""
+
+#: functions/other.php:122
+#@ fraction
+msgid "Last Update: "
+msgstr ""
+
+#: functions/other.php:122
+#@ fraction
+msgid "Updated"
+msgstr ""
+
+#: functions/other.php:432
+#: functions/other.php:476
+#: includes/sliders/breaking-news.php:77
+#: includes/widgets/widget-fraction-double.php:166
+#: includes/widgets/widget-fraction-latest-posts.php:139
+#: includes/widgets/widget-fraction-popular-posts.php:132
+#: includes/widgets/widget-fraction-reviews.php:143
+#@ fraction
+msgid "No posts where found"
+msgstr ""
+
+#: functions/other.php:436
+#: functions/other.php:480
+#@ fraction
+msgid "Please Insert A category"
+msgstr ""
+
+#: functions/other.php:895
+#: functions/other.php:955
+#@ fraction
+msgid "Delete image"
+msgstr ""
+
+#: functions/other.php:895
+#: functions/other.php:955
+#: functions/tax-meta-class/tax-meta-class.php:250
+#: functions/tax-meta-class/tax-meta-class.php:883
+#: includes/theme-config.php:605
+#@ fraction
+#@ tax-meta
+msgid "Delete"
+msgstr ""
+
+#: functions/other.php:906
+#@ fraction
+msgid "Add images"
+msgstr ""
+
+#: functions/other.php:932
+#@ fraction
+msgid "Add Images to Product Gallery"
+msgstr ""
+
+#: functions/other.php:934
+#@ fraction
+msgid "Add to gallery"
+msgstr ""
+
+#: functions/other.php:1401
+#@ fraction
+msgid "Moderate or heavy snow in area with thunder"
+msgstr ""
+
+#: functions/other.php:1405
+#@ fraction
+msgid "Patchy light snow in area with thunder"
+msgstr ""
+
+#: functions/other.php:1409
+#@ fraction
+msgid "Moderate or heavy snow showers"
+msgstr ""
+
+#: functions/other.php:1413
+#@ fraction
+msgid "Light snow showers"
+msgstr ""
+
+#: functions/other.php:1417
+#@ fraction
+msgid "Ice pellets"
+msgstr ""
+
+#: functions/other.php:1421
+#@ fraction
+msgid "Heavy snow"
+msgstr ""
+
+#: functions/other.php:1425
+#@ fraction
+msgid "Patchy heavy snow"
+msgstr ""
+
+#: functions/other.php:1429
+#@ fraction
+msgid "Moderate snow"
+msgstr ""
+
+#: functions/other.php:1433
+#@ fraction
+msgid "Patchy moderate snow"
+msgstr ""
+
+#: functions/other.php:1437
+#@ fraction
+msgid "Light snow"
+msgstr ""
+
+#: functions/other.php:1441
+#@ fraction
+msgid "Patchy light snow"
+msgstr ""
+
+#: functions/other.php:1445
+#@ fraction
+msgid "Moderate or heavy sleet"
+msgstr ""
+
+#: functions/other.php:1449
+#@ fraction
+msgid "Light sleet"
+msgstr ""
+
+#: functions/other.php:1453
+#@ fraction
+msgid "Heavy freezing drizzle"
+msgstr ""
+
+#: functions/other.php:1457
+#@ fraction
+msgid "Freezing drizzle"
+msgstr ""
+
+#: functions/other.php:1461
+#@ fraction
+msgid "Light drizzle"
+msgstr ""
+
+#: functions/other.php:1465
+#@ fraction
+msgid "Patchy light drizzle"
+msgstr ""
+
+#: functions/other.php:1469
+#@ fraction
+msgid "Blizzard"
+msgstr ""
+
+#: functions/other.php:1473
+#@ fraction
+msgid "Blowing snow"
+msgstr ""
+
+#: functions/other.php:1477
+#@ fraction
+msgid "Moderate or heavy rain in area with thunder"
+msgstr ""
+
+#: functions/other.php:1481
+#@ fraction
+msgid "Patchy light rain in area with thunder"
+msgstr ""
+
+#: functions/other.php:1485
+#@ fraction
+msgid "Thundery outbreaks in nearby"
+msgstr ""
+
+#: functions/other.php:1489
+#@ fraction
+msgid "Moderate or heavy showers of ice pellets"
+msgstr ""
+
+#: functions/other.php:1493
+#@ fraction
+msgid "Light showers of ice pellets"
+msgstr ""
+
+#: functions/other.php:1497
+#@ fraction
+msgid "Moderate or heavy sleet showers"
+msgstr ""
+
+#: functions/other.php:1501
+#@ fraction
+msgid "Light sleet showers"
+msgstr ""
+
+#: functions/other.php:1505
+#@ fraction
+msgid "Torrential rain shower"
+msgstr ""
+
+#: functions/other.php:1509
+#@ fraction
+msgid "Moderate or heavy rain shower"
+msgstr ""
+
+#: functions/other.php:1513
+#@ fraction
+msgid "Light rain shower"
+msgstr ""
+
+#: functions/other.php:1517
+#@ fraction
+msgid "Moderate or Heavy freezing rain"
+msgstr ""
+
+#: functions/other.php:1521
+#@ fraction
+msgid "Light freezing rain"
+msgstr ""
+
+#: functions/other.php:1525
+#@ fraction
+msgid "Heavy rain"
+msgstr ""
+
+#: functions/other.php:1529
+#@ fraction
+msgid "Heavy rain at times"
+msgstr ""
+
+#: functions/other.php:1533
+#@ fraction
+msgid "Moderate rain"
+msgstr ""
+
+#: functions/other.php:1537
+#@ fraction
+msgid "Moderate rain at times"
+msgstr ""
+
+#: functions/other.php:1541
+#@ fraction
+msgid "Light rain"
+msgstr ""
+
+#: functions/other.php:1545
+#@ fraction
+msgid "Patchy light rain"
+msgstr ""
+
+#: functions/other.php:1549
+#@ fraction
+msgid "Patchy freezing drizzle nearby"
+msgstr ""
+
+#: functions/other.php:1553
+#@ fraction
+msgid "Patchy snow nearby"
+msgstr ""
+
+#: functions/other.php:1557
+#@ fraction
+msgid "Patchy rain nearby"
+msgstr ""
+
+#: functions/other.php:1561
+#@ fraction
+msgid "Freezing fog"
+msgstr ""
+
+#: functions/other.php:1565
+#@ fraction
+msgid "Fog"
+msgstr ""
+
+#: functions/other.php:1569
+#@ fraction
+msgid "Mist"
+msgstr ""
+
+#: functions/other.php:1573
+#@ fraction
+msgid "Overcast"
+msgstr ""
+
+#: functions/other.php:1577
+#@ fraction
+msgid "Cloudy"
+msgstr ""
+
+#: functions/other.php:1581
+#@ fraction
+msgid "Partly Cloudy"
+msgstr ""
+
+#: functions/other.php:1585
+#@ fraction
+msgid "Sunny"
+msgstr ""
+
+#: functions/other.php:1589
+#@ fraction
+msgid "Patchy sleet nearby"
+msgstr ""
+
+#: functions/other.php:1593
+#@ fraction
+msgid "Can't get any data."
+msgstr ""
+
+#: functions/other.php:1605
+#: functions/other.php:1617
+#@ fraction
+msgid "Something went wrong with the connection!"
+msgstr ""
+
+#: functions/other.php:1620
+#@ fraction
+msgid "This option doesn't work on localhost!"
+msgstr ""
+
+#: functions/other.php:1624
+#@ fraction
+msgid "Please set up your API key!"
+msgstr ""
+
+#: functions/other.php:1672
+#@ fraction
+msgid "Search Results for"
+msgstr ""
+
+#: functions/other.php:1680
+#@ fraction
+msgid "Posts From"
+msgstr "Artículos Por"
+
+#: functions/other.php:1683
+#@ fraction
+msgid "Tag"
+msgstr ""
+
+#: functions/other.php:1691
+#@ fraction
+msgid "Archive"
+msgstr ""
+
+#: functions/other.php:1852
+#@ fraction
+msgid "<strong>0</strong> comments"
+msgstr "<strong>0</strong> comentarios"
+
+#: functions/other.php:1854
+#@ fraction
+msgid " comments"
+msgstr "Comentarios"
+
+#: functions/other.php:1856
+#@ fraction
+msgid "<strong>1</strong> comment"
+msgstr "<strong>1</strong> comentario"
+
+#: functions/other.php:2335
+#@ fraction
+msgid "Author"
+msgstr "Autor"
+
+#: functions/other.php:2338
+#, php-format
+#@ fraction
+msgid " %1$s, %2$s"
+msgstr ""
+
+#: functions/other.php:2340
+#@ fraction
+msgid "Reply this comment"
+msgstr "Responder este comentario"
+
+#: functions/register.php:14
+#: includes/top.php:75
+#: includes/top.php:85
+#@ fraction
+msgid "Main Menu"
+msgstr ""
+
+#: functions/register.php:15
+#: includes/top.php:109
+#@ fraction
+msgid "Second Menu"
+msgstr ""
+
+#: functions/register.php:27
+#: functions/register.php:62
+#@ fraction
+msgid "Add New Item"
+msgstr ""
+
+#: functions/register.php:28
+#: functions/register.php:63
+#@ fraction
+msgid "Edit Item"
+msgstr ""
+
+#: functions/register.php:29
+#@ fraction
+msgid "New Gallery Item"
+msgstr ""
+
+#: functions/register.php:30
+#: functions/register.php:65
+#@ fraction
+msgid "View Item"
+msgstr ""
+
+#: functions/register.php:31
+#@ fraction
+msgid "Search Gallery Items"
+msgstr ""
+
+#: functions/register.php:32
+#@ fraction
+msgid "No gallery items found"
+msgstr ""
+
+#: functions/register.php:33
+#@ fraction
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: functions/register.php:64
+#@ fraction
+msgid "New Portfolio Item"
+msgstr ""
+
+#: functions/register.php:66
+#@ fraction
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: functions/register.php:67
+#@ fraction
+msgid "No portfolio items found"
+msgstr ""
+
+#: functions/register.php:68
+#@ fraction
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: functions/register.php:73
+#: functions/register.php:75
+#: functions/register.php:76
+#@ fraction
+msgid "Portfolio Categories"
+msgstr ""
+
+#: functions/register.php:111
+#@ fraction
+msgid "The default page sidebar."
+msgstr ""
+
+#: functions/register.php:112
+#@ fraction
+msgid "Footer widget area, supports up to 3 widgets."
+msgstr ""
+
+#: functions/register.php:114
+#@ fraction
+msgid "Woocommerce Page Sidebar"
+msgstr ""
+
+#: functions/register.php:117
+#@ fraction
+msgid "bbPress Page Sidebar"
+msgstr ""
+
+#: functions/register.php:120
+#@ fraction
+msgid "BuddyPress Page Sidebar"
+msgstr ""
+
+#: functions/register.php:123
+#@ fraction
+msgid "Sticky sidebar under the main sidebar, that will stay fixed while you scroll down the page"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:250
+#@ tax-meta
+msgid "Delete this image"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:357
+#@ tax-meta
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:596
+#@ tax-meta
+msgid "Add"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:879
+#@ tax-meta
+msgid "Uploaded files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:890
+#@ tax-meta
+msgid "Upload new files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:896
+#@ tax-meta
+msgid "Add more files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:948
+#@ tax-meta
+msgid "Select a color"
+msgstr ""
+
+#: header.php:43
+#, php-format
+#@ fraction
+msgid "%s latest posts"
+msgstr "%s últimos post"
+
+#: header.php:44
+#, php-format
+#@ fraction
+msgid "%s latest comments"
+msgstr "%s últimos comentarios"
+
+#: includes/admin/functions/default-values.php:137
+#: includes/lib/class-tgm-plugin-activation.php:155
+#@ fraction
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:138
+#: includes/lib/class-tgm-plugin-activation.php:156
+#@ fraction
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:139
+#: includes/lib/class-tgm-plugin-activation.php:157
+#, php-format
+#@ fraction
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:140
+#@ fraction
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:141
+#: includes/lib/class-tgm-plugin-activation.php:159
+#, php-format
+#@ fraction
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:142
+#: includes/lib/class-tgm-plugin-activation.php:160
+#, php-format
+#@ fraction
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:143
+#: includes/lib/class-tgm-plugin-activation.php:161
+#, php-format
+#@ fraction
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:144
+#: includes/lib/class-tgm-plugin-activation.php:162
+#, php-format
+#@ fraction
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:145
+#: includes/lib/class-tgm-plugin-activation.php:163
+#, php-format
+#@ fraction
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:146
+#: includes/lib/class-tgm-plugin-activation.php:164
+#, php-format
+#@ fraction
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:147
+#: includes/lib/class-tgm-plugin-activation.php:165
+#, php-format
+#@ fraction
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:148
+#: includes/lib/class-tgm-plugin-activation.php:166
+#, php-format
+#@ fraction
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:149
+#: includes/lib/class-tgm-plugin-activation.php:167
+#@ fraction
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:150
+#: includes/lib/class-tgm-plugin-activation.php:168
+#@ fraction
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/admin/functions/default-values.php:151
+#: includes/lib/class-tgm-plugin-activation.php:169
+#@ fraction
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:152
+#: includes/lib/class-tgm-plugin-activation.php:171
+#: includes/lib/class-tgm-plugin-activation.php:1840
+#@ fraction
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:153
+#, php-format
+#@ fraction
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/admin/general.php:19
+#@ fraction
+msgid "Blog"
+msgstr ""
+
+#: includes/admin/general.php:20
+#@ fraction
+msgid "Gallery/Portfolio"
+msgstr ""
+
+#: includes/admin/general.php:21
+#@ fraction
+msgid "Contact/Footer"
+msgstr ""
+
+#: includes/admin/general.php:22
+#@ fraction
+msgid "Banners"
+msgstr ""
+
+#: includes/admin/general.php:56
+#@ fraction
+msgid "Add logo image"
+msgstr ""
+
+#: includes/admin/general.php:61
+#@ fraction
+msgid "Add Header Logo Image"
+msgstr ""
+
+#: includes/admin/general.php:62
+#@ fraction
+msgid "Suggested image size is 467x60px"
+msgstr ""
+
+#: includes/admin/general.php:75
+#@ fraction
+msgid "Export/Import Theme Settings"
+msgstr ""
+
+#: includes/admin/general.php:80
+#: includes/theme-config.php:655
+#@ fraction
+msgid "Export Settings"
+msgstr ""
+
+#: includes/admin/general.php:87
+#: includes/theme-config.php:661
+#@ fraction
+msgid "Import Settings"
+msgstr ""
+
+#: includes/admin/general.php:120
+#@ fraction
+msgid "Unit Settings"
+msgstr ""
+
+#: includes/admin/general.php:125
+#@ fraction
+msgid "Show Search In Menu:"
+msgstr ""
+
+#: includes/admin/general.php:159
+#@ default
+msgid "Blog Page Title in Singel News"
+msgstr ""
+
+#: includes/admin/general.php:164
+#: includes/widgets/widget-fraction-latest-posts.php:48
+#@ default
+#@ fraction
+msgid "Show"
+msgstr "Mostrar"
+
+#: includes/admin/general.php:201
+#@ fraction
+msgid "Show thumbnail in open post/page"
+msgstr ""
+
+#: includes/admin/general.php:210
+#: includes/admin/general.php:232
+#: includes/admin/general.php:254
+#: includes/admin/general.php:276
+#: includes/admin/general.php:299
+#: includes/admin/general.php:322
+#: includes/admin/general.php:372
+#@ fraction
+msgid "Custom For Each Post:"
+msgstr ""
+
+#: includes/admin/general.php:223
+#@ fraction
+msgid "Show Post Author In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:245
+#@ fraction
+msgid "Show Post Date In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:267
+#@ fraction
+msgid "Show Post Categories In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:290
+#@ fraction
+msgid "Show \"About Author\" In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:313
+#@ fraction
+msgid "Show \"Similar News\" In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:348
+#@ fraction
+msgid "Custom For Each Post/Page:"
+msgstr ""
+
+#: includes/admin/general.php:363
+#@ fraction
+msgid "Show Post Comment Count"
+msgstr ""
+
+#: includes/admin/general.php:382
+#: includes/admin/general.php:477
+#: includes/admin/style.php:239
+#: includes/admin/style.php:339
+#@ fraction
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/general.php:404
+#@ fraction
+msgid "Twitter Account"
+msgstr ""
+
+#: includes/admin/general.php:409
+#@ fraction
+msgid "Twitter Account Name:"
+msgstr ""
+
+#: includes/admin/general.php:421
+#: includes/widgets/widget-fraction-contact.php:6
+#@ fraction
+msgid "Contact Information"
+msgstr ""
+
+#: includes/admin/general.php:426
+#@ fraction
+msgid "Facebook Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:432
+#@ fraction
+msgid "Twitter Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:437
+#@ fraction
+msgid "Google+ Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:442
+#@ fraction
+msgid "Youtube Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:447
+#@ fraction
+msgid "Vimeo Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:461
+#@ fraction
+msgid "Footer CopyRight"
+msgstr ""
+
+#: includes/admin/general.php:466
+#: includes/widgets/widget-fraction-aweber.php:68
+#: includes/widgets/widget-fraction-contact.php:31
+#: includes/widgets/widget-fraction-social.php:22
+#@ fraction
+msgid "Text:"
+msgstr ""
+
+#: includes/admin/general.php:499
+#@ fraction
+msgid "Gallery Settings"
+msgstr ""
+
+#: includes/admin/general.php:504
+#: includes/admin/general.php:524
+#@ fraction
+msgid "Items per gallery page:"
+msgstr ""
+
+#: includes/admin/general.php:519
+#@ fraction
+msgid "Portfolio Settings"
+msgstr ""
+
+#: includes/admin/general.php:540
+#@ fraction
+msgid "Show \"Similar Posts\" In Single Galley"
+msgstr ""
+
+#: includes/admin/general.php:549
+#@ fraction
+msgid "Custom For Each Gallery Page:"
+msgstr ""
+
+#: includes/admin/general.php:563
+#@ fraction
+msgid "Show \"Similar Posts\" In Single Portfolio"
+msgstr ""
+
+#: includes/admin/general.php:572
+#@ fraction
+msgid "Custom For Each Portfolio Page:"
+msgstr ""
+
+#: includes/admin/general.php:607
+#@ fraction
+msgid "Blog Page Banner"
+msgstr ""
+
+#: includes/admin/general.php:612
+#: includes/admin/general.php:662
+#@ fraction
+msgid "Enable Banner"
+msgstr ""
+
+#: includes/admin/general.php:619
+#: includes/admin/general.php:669
+#@ fraction
+msgid "Banner HTML Code"
+msgstr ""
+
+#: includes/admin/general.php:628
+#@ fraction
+msgid "Show banner after"
+msgstr ""
+
+#: includes/admin/general.php:657
+#@ fraction
+msgid "Default Single Post Banner"
+msgstr ""
+
+#: includes/admin/sidebar.php:37
+#@ fraction
+msgid "Main Sidebar Position"
+msgstr ""
+
+#: includes/admin/sidebar.php:46
+#: includes/admin/sidebar.php:68
+#@ fraction
+msgid "Custom For Each Page:"
+msgstr ""
+
+#: includes/admin/sidebar.php:59
+#@ fraction
+msgid "Second Sidebar Position"
+msgstr ""
+
+#: includes/admin/sidebar.php:81
+#@ fraction
+msgid "Show The Sticky Sidebar Under Main Sidebar"
+msgstr ""
+
+#: includes/admin/sidebar.php:100
+#@ fraction
+msgid "Add Sidebar"
+msgstr ""
+
+#: includes/admin/sidebar.php:105
+#@ fraction
+msgid "Add New Sidebar:"
+msgstr ""
+
+#: includes/admin/sidebar.php:119
+#@ fraction
+msgid "Sidebar Sequence"
+msgstr ""
+
+#: includes/admin/sidebar.php:120
+#@ fraction
+msgid "To sort the slides just drag and drop them!"
+msgstr ""
+
+#: includes/admin/sidebar.php:125
+#@ fraction
+msgid "Order Sidebars"
+msgstr ""
+
+#: includes/admin/style.php:6
+#@ fraction
+msgid "Style Settings"
+msgstr ""
+
+#: includes/admin/style.php:18
+#@ fraction
+msgid "Font Style"
+msgstr ""
+
+#: includes/admin/style.php:19
+#@ fraction
+msgid "Page Colors/Style"
+msgstr ""
+
+#: includes/admin/style.php:20
+#@ fraction
+msgid "Layout"
+msgstr ""
+
+#: includes/admin/style.php:39
+#@ fraction
+msgid "Main font family:"
+msgstr ""
+
+#: includes/admin/style.php:42
+#: includes/admin/style.php:50
+#: includes/admin/style.php:58
+#: includes/admin/style.php:67
+#@ fraction
+msgid "Font previews You Can find here: <a href='http://www.google.com/webfonts' target='_blank'>Google Fonts</a>"
+msgstr ""
+
+#: includes/admin/style.php:47
+#@ fraction
+msgid "Titles font family:"
+msgstr ""
+
+#: includes/admin/style.php:55
+#@ fraction
+msgid "Article titles font family:"
+msgstr ""
+
+#: includes/admin/style.php:64
+#@ fraction
+msgid "Main font size:"
+msgstr ""
+
+#: includes/admin/style.php:82
+#@ fraction
+msgid "Font Character Sets"
+msgstr ""
+
+#: includes/admin/style.php:87
+#@ fraction
+msgid "Cyrillic Extended (cyrillic-ext):"
+msgstr ""
+
+#: includes/admin/style.php:92
+#@ fraction
+msgid "Cyrillic (cyrillic):"
+msgstr ""
+
+#: includes/admin/style.php:97
+#@ fraction
+msgid "Greek Extended (greek-ext):"
+msgstr ""
+
+#: includes/admin/style.php:102
+#@ fraction
+msgid "Greek (greek):"
+msgstr ""
+
+#: includes/admin/style.php:107
+#@ fraction
+msgid "Vietnamese (vietnamese):"
+msgstr ""
+
+#: includes/admin/style.php:112
+#@ fraction
+msgid "Latin Extended (latin-ext):"
+msgstr ""
+
+#: includes/admin/style.php:141
+#@ fraction
+msgid "Default Category/News page Color"
+msgstr ""
+
+#: includes/admin/style.php:159
+#@ fraction
+msgid "Main color scheme"
+msgstr ""
+
+#: includes/admin/style.php:182
+#@ fraction
+msgid "Body Backgrounds (only boxed view)"
+msgstr ""
+
+#: includes/admin/style.php:189
+#@ fraction
+msgid "Pattern:"
+msgstr ""
+
+#: includes/admin/style.php:190
+#@ fraction
+msgid "Custom Image:"
+msgstr ""
+
+#: includes/admin/style.php:201
+#@ fraction
+msgid "Texture 1"
+msgstr ""
+
+#: includes/admin/style.php:202
+#@ fraction
+msgid "Texture 2"
+msgstr ""
+
+#: includes/admin/style.php:203
+#@ fraction
+msgid "Texture 3"
+msgstr ""
+
+#: includes/admin/style.php:204
+#@ fraction
+msgid "Texture 4"
+msgstr ""
+
+#: includes/admin/style.php:205
+#@ fraction
+msgid "Texture 5"
+msgstr ""
+
+#: includes/admin/style.php:206
+#@ fraction
+msgid "Texture 6"
+msgstr ""
+
+#: includes/admin/style.php:215
+#@ fraction
+msgid "Body Background Color:"
+msgstr ""
+
+#: includes/admin/style.php:225
+#@ fraction
+msgid "Body Background Image:"
+msgstr ""
+
+#: includes/admin/style.php:259
+#@ fraction
+msgid "Enable Responsive"
+msgstr ""
+
+#: includes/admin/style.php:264
+#: includes/admin/style.php:282
+#@ fraction
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/style.php:277
+#@ fraction
+msgid "Fixed Menu"
+msgstr ""
+
+#: includes/admin/style.php:297
+#@ fraction
+msgid "Page Layout"
+msgstr ""
+
+#: includes/admin/style.php:304
+#@ fraction
+msgid "Boxed:"
+msgstr ""
+
+#: includes/admin/style.php:305
+#@ fraction
+msgid "Wide:"
+msgstr ""
+
+#: includes/admin/style.php:325
+#@ fraction
+msgid "Large Images:"
+msgstr ""
+
+#: includes/admin/style.php:326
+#@ fraction
+msgid "Small Images:"
+msgstr ""
+
+#: includes/admin/style.php:327
+#@ fraction
+msgid "Custom in Each Post:"
+msgstr ""
+
+#: includes/banners.php:20
+#: includes/banners.php:29
+#: includes/banners.php:40
+#@ fraction
+msgid "Close"
+msgstr "Cerrar"
+
+#: includes/gallery-single-style-1.php:108
+#@ fraction
+msgid "Related photo galleries"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:109
+#@ fraction
+msgid "Galleries from the same category"
+msgstr "Galerias de algunas categorías"
+
+#: includes/gallery-single-style-1.php:165
+#: template-gallery.php:107
+#@ fraction
+msgid "photo"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:167
+#: template-gallery.php:109
+#@ fraction
+msgid "photos"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:171
+#: template-gallery.php:113
+#@ fraction
+msgid "View Gallery"
+msgstr "Ver Galeria"
+
+#: includes/gallery-single-style-1.php:178
+#: includes/gallery-single-style-1.php:188
+#: includes/news-single.php:136
+#: includes/page-single.php:14
+#: includes/page-woocommerce.php:9
+#: includes/portfolio-single.php:220
+#: includes/portfolio-single.php:230
+#: template-contact.php:72
+#@ fraction
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: includes/home-blocks/categories-1.php:49
+#: includes/home-blocks/latest-news-1.php:87
+#: includes/home-blocks/latest-news-2.php:79
+#: includes/home-blocks/latest-news-2.php:105
+#: includes/loop/post.php:61
+#: template-archive.php:87
+#@ fraction
+msgid "Read More"
+msgstr "Leer Más"
+
+#: includes/home-blocks/categories-1.php:67
+#: template-archive.php:115
+#@ fraction
+msgid "More Articles"
+msgstr "Más Artículos"
+
+#: includes/home-blocks/latest-galleries.php:20
+#@ fraction
+msgid "View More Galleries"
+msgstr "Ver Más Galerías"
+
+#: includes/home-blocks/latest-news-1.php:19
+#: includes/home-blocks/latest-news-2.php:21
+#: includes/home-blocks/shop.php:19
+#@ fraction
+msgid "View More Posts"
+msgstr "Ver Más Post"
+
+#: includes/home-blocks/latest-news-1.php:79
+#: includes/loop/post.php:53
+#: includes/single/post-ratings.php:41
+#: includes/single/post-ratings.php:87
+#: includes/widgets/widget-fraction-reviews.php:136
+#@ fraction
+msgid "out of 5"
+msgstr "de 5"
+
+#: includes/home-blocks/latest-news-1.php:80
+#: includes/loop/post.php:54
+#@ fraction
+msgid "Rating:"
+msgstr ""
+
+#: includes/home-blocks/latest-news-1.php:80
+#: includes/home-blocks/reviews.php:45
+#: includes/home-blocks/reviews.php:47
+#: includes/loop/post.php:54
+#@ fraction
+msgid "out of 5 stars"
+msgstr "de 5 estrellas"
+
+#: includes/home-blocks/reviews.php:45
+#@ fraction
+msgid "Rated"
+msgstr ""
+
+#: includes/home-blocks/shop.php:35
+#@ fraction
+msgid "Sale!"
+msgstr ""
+
+#: includes/home-blocks/shop.php:60
+#@ fraction
+msgid "<h2>Please set up woocommerce plugin</h2><br/>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:158
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:170
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:173
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:174
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1085
+#@ tgmpa
+msgid "External Link"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1090
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1093
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1097
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1103
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1105
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1291
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1292
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1293
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1294
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1312
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1313
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: includes/lib/class-tgm-plugin-activation.php:1538
+#: includes/lib/class-tgm-plugin-activation.php:172
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1823
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1825
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1826
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1827
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1828
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1839
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1949
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1951
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1956
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1960
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2052
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/loop/no-post.php:17
+#@ fraction
+msgid "No Post Found"
+msgstr "Post No Enconrado"
+
+#: includes/news-single.php:66
+#: template-archive.php:79
+#: template-archive.php:106
+#@ fraction
+msgid "0 comments"
+msgstr "0 comentarios"
+
+#: includes/news-single.php:66
+#: template-archive.php:79
+#: template-archive.php:106
+#@ fraction
+msgid "1 comment"
+msgstr "1 comentario"
+
+#: includes/news-single.php:66
+#: template-archive.php:79
+#: template-archive.php:106
+#@ fraction
+msgid "% comments"
+msgstr "% comentarios"
+
+#: includes/news-single.php:113
+#@ fraction
+msgid "Pages:"
+msgstr "Páginas:"
+
+#: includes/news-single.php:118
+#@ fraction
+msgid "Next page"
+msgstr "Página Siquiente"
+
+#: includes/news-single.php:119
+#@ fraction
+msgid "Previous page"
+msgstr "Página Anterior"
+
+#: includes/portfolio-single.php:91
+#@ fraction
+msgid "Project Name"
+msgstr ""
+
+#: includes/portfolio-single.php:96
+#@ fraction
+msgid "Date Created"
+msgstr ""
+
+#: includes/portfolio-single.php:101
+#@ fraction
+msgid "About Project"
+msgstr ""
+
+#: includes/portfolio-single.php:115
+#@ fraction
+msgid "Some Features"
+msgstr ""
+
+#: includes/portfolio-single.php:161
+#@ fraction
+msgid "Similar Portfolio Items"
+msgstr ""
+
+#: includes/portfolio-single.php:162
+#@ fraction
+msgid "Items from the same category"
+msgstr ""
+
+#: includes/portfolio-single.php:213
+#: template-portfolio.php:119
+#@ fraction
+msgid "More Info"
+msgstr "Más Información"
+
+#: includes/single/about-author.php:23
+#@ fraction
+msgid "About Author"
+msgstr "Sobre El Autor"
+
+#: includes/single/about-author.php:24
+#@ fraction
+msgid "More info about author"
+msgstr "Más información sobre el autor"
+
+#: includes/single/about-author.php:52
+#@ fraction
+msgid "More by"
+msgstr "Más por"
+
+#: includes/single/post-ratings.php:19
+#@ fraction
+msgid "Review Summary"
+msgstr ""
+
+#: includes/single/post-ratings.php:20
+#@ fraction
+msgid "Details about this item"
+msgstr ""
+
+#: includes/single/post-ratings.php:70
+#@ fraction
+msgid "Excellent"
+msgstr ""
+
+#: includes/single/post-ratings.php:72
+#@ fraction
+msgid "Good"
+msgstr ""
+
+#: includes/single/post-ratings.php:74
+#@ fraction
+msgid "Average"
+msgstr ""
+
+#: includes/single/post-ratings.php:76
+#@ fraction
+msgid "Fair"
+msgstr ""
+
+#: includes/single/post-ratings.php:78
+#@ fraction
+msgid "Poor"
+msgstr ""
+
+#: includes/single/post-ratings.php:80
+#@ fraction
+msgid "Very Poor"
+msgstr ""
+
+#: includes/single/post-related.php:42
+#, php-format
+#@ fraction
+msgid "Related %1$s Articles"
+msgstr "Artículos Relacionados de %1$s"
+
+#: includes/single/post-related.php:43
+#, php-format
+#@ fraction
+msgid "Similar Posts From %1$s Category"
+msgstr "Publicaciones Similares de %1$s"
+
+#: includes/single/share.php:13
+#@ fraction
+msgid "Share This Article"
+msgstr "Comparte Este Artículo"
+
+#: includes/single/share.php:14
+#@ fraction
+msgid "Do the sharing thingy"
+msgstr "Es muy sencillo"
+
+#: includes/sliders/breaking-news.php:46
+#@ fraction
+msgid "Breaking News"
+msgstr "Último de Elpunto"
+
+#: includes/theme-config.php:356
+#@ fraction
+msgid "You didn't create a slider yet."
+msgstr ""
+
+#: includes/theme-config.php:581
+#@ fraction
+msgid "To add content to your Hompage, drag &amp; drop blocks from Available to Active area "
+msgstr ""
+
+#: includes/theme-config.php:584
+#@ fraction
+msgid "Active homepage blocks"
+msgstr ""
+
+#: includes/theme-config.php:604
+#@ fraction
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-config.php:649
+#@ fraction
+msgid "Pagebuilder Import/Export"
+msgstr ""
+
+#: includes/theme-config.php:745
+#@ fraction
+msgid "Export"
+msgstr ""
+
+#: includes/theme-config.php:790
+#@ fraction
+msgid "Import"
+msgstr ""
+
+#: includes/theme-config.php:1363
+#: includes/theme-config.php:1648
+#@ fraction
+msgid "Off"
+msgstr ""
+
+#: includes/theme-config.php:1490
+#@ fraction
+msgid "This options is disabled, to enable it you must set this option in <strong>theme management panel</strong> to custom."
+msgstr ""
+
+#: includes/theme-config.php:1543
+#@ fraction
+msgid "Sidebar name:"
+msgstr ""
+
+#: includes/theme-config.php:1601
+#@ fraction
+msgid "Add/Save"
+msgstr ""
+
+#: includes/theme-config.php:1650
+#@ fraction
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/theme-config.php:1653
+#@ fraction
+msgid "bbPRess"
+msgstr ""
+
+#: includes/theme-config.php:1656
+#@ fraction
+msgid "BudyPress"
+msgstr ""
+
+#: includes/top.php:31
+#@ fraction
+msgid "Toggle Menu"
+msgstr ""
+
+#: includes/top.php:95
+#@ fraction
+msgid "Search.."
+msgstr ""
+
+#: includes/top.php:96
+#: searchform.php:9
+#@ fraction
+msgid "Search"
+msgstr ""
+
+#: includes/widgets/widget-ad160x600.php:34
+#@ fraction
+msgid "A widget that allows the display and configuration of of a single 160x600 Banner."
+msgstr ""
+
+#: includes/widgets/widget-ad160x600.php:125
+#: includes/widgets/widget-ad300x250.php:126
+#@ fraction
+msgid "Ad image url:"
+msgstr ""
+
+#: includes/widgets/widget-ad160x600.php:131
+#: includes/widgets/widget-ad300x250.php:132
+#@ fraction
+msgid "Ad link url:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:35
+#@ framework
+msgid "A widget that allows the display and configuration of of a single 300x250 Banner."
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:70
+#@ fraction
+msgid "Click here to get your authorization code."
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:71
+#@ fraction
+msgid "<strong>Step 2:</strong>\tPaste in your authorization code:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:79
+#@ fraction
+msgid "Select the list you'd like people to subscribe to:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:81
+#@ fraction
+msgid "Select A List"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:88
+#@ fraction
+msgid "This AWeber account does not currently have any lists or your authorization code is incorrect!"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:151
+#@ fraction
+msgid "Success! Everything went well, You are now subscribed !"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:157
+#@ fraction
+msgid "Error Occurred!"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:163
+#@ fraction
+msgid "Loading.. <br/>This may take a few seconds !"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:172
+#@ fraction
+msgid "Name"
+msgstr "Nombre"
+
+#: includes/widgets/widget-fraction-aweber.php:175
+#@ fraction
+msgid "E-mail address"
+msgstr "Dirección de correo electrónico"
+
+#: includes/widgets/widget-fraction-aweber.php:178
+#@ fraction
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:184
+#@ fraction
+msgid "There is no list selected."
+msgstr ""
+
+#: includes/widgets/widget-fraction-contact.php:33
+#@ fraction
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-contact.php:34
+#@ fraction
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:24
+#@ fraction
+msgid "Recent Post Count:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:25
+#@ fraction
+msgid "Recent Post Category:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:38
+#: includes/widgets/widget-fraction-double.php:86
+#: includes/widgets/widget-fraction-latest-posts.php:39
+#: includes/widgets/widget-fraction-popular-posts.php:37
+#: includes/widgets/widget-fraction-reviews.php:39
+#@ fraction
+msgid "Latest News"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:45
+#@ fraction
+msgid "Comment Count:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:85
+#@ fraction
+msgid "Comments"
+msgstr "Comentarios"
+
+#: includes/widgets/widget-fraction-double.php:124
+#@ fraction
+msgid "View comment"
+msgstr "Ver comentarios"
+
+#: includes/widgets/widget-fraction-gallery.php:22
+#@ fraction
+msgid "Item shown:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:6
+#: includes/widgets/widget-fraction-latest-posts.php:12
+#@ fraction
+msgid "Latests News"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:26
+#: includes/widgets/widget-fraction-popular-posts.php:24
+#: includes/widgets/widget-fraction-reviews.php:26
+#@ fraction
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:46
+#@ fraction
+msgid "Images:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:49
+#@ fraction
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:53
+#: includes/widgets/widget-fraction-popular-posts.php:45
+#: includes/widgets/widget-fraction-reviews.php:53
+#@ fraction
+msgid "Post count:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-popular-posts.php:6
+#: includes/widgets/widget-fraction-popular-posts.php:12
+#@ fraction
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:55
+#@ fraction
+msgid "likes"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:56
+#@ fraction
+msgid "facebook"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:59
+#@ fraction
+msgid "tweets"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:60
+#@ fraction
+msgid "twitter"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:63
+#@ fraction
+msgid "+1's"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:64
+#@ fraction
+msgid "google+"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:67
+#@ fraction
+msgid "Pin it"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:68
+#@ fraction
+msgid "pinterest"
+msgstr ""
+
+#: js/scripts.php:12
+#: js/scripts.php:39
+#@ fraction
+msgid "You didn't enter Your First Name."
+msgstr ""
+
+#: js/scripts.php:14
+#: js/scripts.php:41
+#@ fraction
+msgid "First Name is the wrong length."
+msgstr ""
+
+#: js/scripts.php:25
+#: js/scripts.php:52
+#@ fraction
+msgid "You didn't enter an email address."
+msgstr ""
+
+#: js/scripts.php:27
+#: js/scripts.php:54
+#@ fraction
+msgid "The email address contains illegal characters."
+msgstr ""
+
+#: js/scripts.php:66
+#@ fraction
+msgid "You didn't enter Your message."
+msgstr ""
+
+#: js/scripts.php:68
+#@ fraction
+msgid "The message is to short."
+msgstr ""
+
+#: js/scripts.php:76
+#@ fraction
+msgid "Please select at least one checkbox!"
+msgstr ""
+
+#: searchform.php:7
+#@ fraction
+msgid "Search for:"
+msgstr "Buscar para:"
+
+#: searchform.php:8
+#@ fraction
+msgid "search here"
+msgstr "Buscar aquí"
+
+#: template-contact.php:31
+#@ fraction
+msgid "Great Success"
+msgstr ""
+
+#: template-contact.php:31
+#@ fraction
+msgid "Your comment went through!"
+msgstr "Tus datos estarán a salvo!"
+
+#: template-contact.php:39
+#@ fraction
+msgid "Your e-mail address will not be published. Also other data will not be shared with third person.<br/>Required fields are marked"
+msgstr "Tu dirección de correo electrónico no será publicada. También otros datos no serán compartidos con terceras personas. Los Campos requeridos estan marcados"
+
+#: template-contact.php:60
+#: template-contact.php:61
+#@ fraction
+msgid "Your message"
+msgstr "Su Mensaje"
+
+#: template-contact.php:65
+#@ fraction
+msgid "Send a Message"
+msgstr "Enviar mensaje"
+
+#: template-gallery.php:127
+#@ fraction
+msgid "No galleries were found"
+msgstr ""
+
+#: template-portfolio.php:49
+#@ fraction
+msgid "Select a category:"
+msgstr ""
+
+#: template-portfolio.php:51
+#@ fraction
+msgid "All"
+msgstr "Todo"
+
+#: template-portfolio.php:135
+#@ fraction
+msgid "No items were found"
+msgstr ""
+

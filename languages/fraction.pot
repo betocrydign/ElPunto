@@ -1,0 +1,2283 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fraction\n"
+"POT-Creation-Date: 2014-08-26 16:48+0200\n"
+"PO-Revision-Date: 2014-10-03 15:35+0200\n"
+"Last-Translator: \n"
+"Language-Team: Orange Themes <support@orange-themes.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:28
+msgid "404"
+msgstr ""
+
+#: 404.php:30
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:32 includes/loop/no-post.php:19
+msgid ""
+"You must be lost or we just have lost this<br/>page You were looking for. "
+"Sorry about that."
+msgstr ""
+
+#: 404.php:34 includes/top.php:48 includes/loop/no-post.php:21
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:36 includes/loop/no-post.php:23
+msgid "Contact Us"
+msgstr ""
+
+#: comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:23
+msgid "No Comments so far"
+msgstr ""
+
+#: comments.php:23
+msgid "1 Comment so far"
+msgstr ""
+
+#: comments.php:23
+msgid "% Comments so far"
+msgstr ""
+
+#: comments.php:24
+msgid "Jump into a conversation"
+msgstr ""
+
+#: comments.php:47
+msgid "No Comments Yet!"
+msgstr ""
+
+#: comments.php:48
+msgid ""
+"You can be the one to <a href=\"#writecomment\">start a conversation</a>."
+msgstr ""
+
+#: comments.php:57
+#, php-format
+msgid "Only <a href=\"%1$s\"> registered </a> users can comment."
+msgstr ""
+
+#: comments.php:62
+msgid "Comment"
+msgstr ""
+
+#: comments.php:62
+msgid "Comment text.."
+msgstr ""
+
+#: comments.php:70
+msgid "Post a Comment"
+msgstr ""
+
+#: footer.php:68
+msgid "Designed by"
+msgstr ""
+
+#: footer.php:82 includes/_lightbox-gallery.php:3
+msgid "Close Window"
+msgstr ""
+
+#: footer.php:84
+msgid "Loading, Please Wait!"
+msgstr ""
+
+#: footer.php:85
+msgid "This may take a second or two."
+msgstr ""
+
+#: footer.php:86
+msgid "Loading"
+msgstr ""
+
+#: header.php:43
+#, php-format
+msgid "%s latest posts"
+msgstr ""
+
+#: header.php:44
+#, php-format
+msgid "%s latest comments"
+msgstr ""
+
+#: searchform.php:7
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:8
+msgid "search here"
+msgstr ""
+
+#: searchform.php:9 includes/top.php:94
+msgid "Search"
+msgstr ""
+
+#: template-archive.php:79 template-archive.php:106
+#: includes/news-single.php:66
+msgid "0 comments"
+msgstr ""
+
+#: template-archive.php:79 template-archive.php:106
+#: includes/news-single.php:66
+msgid "1 comment"
+msgstr ""
+
+#: template-archive.php:79 template-archive.php:106
+#: includes/news-single.php:66
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: template-archive.php:87 includes/home-blocks/categories-1.php:49
+#: includes/home-blocks/latest-news-1.php:85
+#: includes/home-blocks/latest-news-2.php:79
+#: includes/home-blocks/latest-news-2.php:105 includes/loop/post.php:61
+msgid "Read More"
+msgstr ""
+
+#: template-archive.php:115 includes/home-blocks/categories-1.php:67
+msgid "More Articles"
+msgstr ""
+
+#: template-contact.php:31
+msgid "Great Success"
+msgstr ""
+
+#: template-contact.php:31
+msgid "Your comment went through!"
+msgstr ""
+
+#: template-contact.php:38 functions/filters.php:204
+msgid "Your data will be safe!"
+msgstr ""
+
+#: template-contact.php:39
+msgid ""
+"Your e-mail address will not be published. Also other data will not be "
+"shared with third person.<br/>Required fields are marked"
+msgstr ""
+
+#: template-contact.php:46 template-contact.php:47 functions/filters.php:192
+msgid "Nickname"
+msgstr ""
+
+#: template-contact.php:51 template-contact.php:52 functions/filters.php:193
+msgid "E-mail"
+msgstr ""
+
+#: template-contact.php:56 template-contact.php:57 functions/filters.php:194
+msgid "Website"
+msgstr ""
+
+#: template-contact.php:60 template-contact.php:61
+msgid "Your message"
+msgstr ""
+
+#: template-contact.php:65
+msgid "Send a Message"
+msgstr ""
+
+#: template-contact.php:72 includes/gallery-single-style-1.php:177
+#: includes/gallery-single-style-1.php:187 includes/news-single.php:136
+#: includes/page-single.php:14 includes/page-woocommerce.php:9
+#: includes/portfolio-single.php:220 includes/portfolio-single.php:230
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: template-gallery.php:107 includes/gallery-single-style-1.php:164
+msgid "photo"
+msgstr ""
+
+#: template-gallery.php:109 includes/gallery-single-style-1.php:166
+msgid "photos"
+msgstr ""
+
+#: template-gallery.php:113 includes/gallery-single-style-1.php:170
+msgid "View Gallery"
+msgstr ""
+
+#: template-gallery.php:127
+msgid "No galleries were found"
+msgstr ""
+
+#: template-portfolio.php:49
+msgid "Select a category:"
+msgstr ""
+
+#: template-portfolio.php:51
+msgid "All"
+msgstr ""
+
+#: template-portfolio.php:119 includes/portfolio-single.php:213
+msgid "More Info"
+msgstr ""
+
+#: template-portfolio.php:135
+msgid "No items were found"
+msgstr ""
+
+#: functions/ajax.php:385
+msgid "From"
+msgstr ""
+
+#: functions/ajax.php:385
+msgid "Contact Page"
+msgstr ""
+
+#: functions/ajax.php:398
+msgid "Message:"
+msgstr ""
+
+#: functions/ajax.php:400
+msgid "Name:"
+msgstr ""
+
+#: functions/ajax.php:401
+msgid "Url:"
+msgstr ""
+
+#: functions/ajax.php:402
+msgid "E-mail:"
+msgstr ""
+
+#: functions/ajax.php:403
+msgid "IP Address:"
+msgstr ""
+
+#: functions/custom-admin-menu.php:126
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:130
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:171
+msgid "Edit Menu Item"
+msgstr ""
+
+#: functions/custom-admin-menu.php:180
+msgid "URL"
+msgstr ""
+
+#: functions/custom-admin-menu.php:187
+msgid "Navigation Label"
+msgstr ""
+
+#: functions/custom-admin-menu.php:193
+msgid "Title Attribute"
+msgstr ""
+
+#: functions/custom-admin-menu.php:200
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: functions/custom-admin-menu.php:205
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:211
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:217
+msgid "Description"
+msgstr ""
+
+#: functions/custom-admin-menu.php:219
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: functions/custom-admin-menu.php:232
+msgid "Show The Color Line In Main Menu Parent Item (Only Pages/Categories)"
+msgstr ""
+
+#: functions/custom-admin-menu.php:238
+msgid ""
+"Main menu type ( only menu parent item, more info <a href=\"http://fraction."
+"orange-themes.com/documentation/#mega-menu\" target=\"_blank\">here</a> )"
+msgstr ""
+
+#: functions/custom-admin-menu.php:240 functions/custom-admin-menu.php:254
+#: includes/theme-config.php:1646
+msgid "Default"
+msgstr ""
+
+#: functions/custom-admin-menu.php:241
+msgid "Mega Menu With Posts"
+msgstr ""
+
+#: functions/custom-admin-menu.php:242
+msgid "Mega Menu With Widgets"
+msgstr ""
+
+#: functions/custom-admin-menu.php:248
+msgid "Sidebar for widget mega menu"
+msgstr ""
+
+#: functions/custom-admin-menu.php:283
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: functions/custom-admin-menu.php:296
+#: functions/tax-meta-class/tax-meta-class.php:583
+#: functions/tax-meta-class/tax-meta-class.php:630
+msgid "Remove"
+msgstr ""
+
+#: functions/custom-admin-menu.php:297
+msgid "Cancel"
+msgstr ""
+
+#: functions/drag-drop.php:13
+msgid "Homepage Blocks:"
+msgstr ""
+
+#: functions/drag-drop.php:17 functions/drag-drop.php:45
+msgid "Latest News Blocks"
+msgstr ""
+
+#: functions/drag-drop.php:20 functions/drag-drop.php:76
+msgid "3 posts in row"
+msgstr ""
+
+#: functions/drag-drop.php:23 functions/drag-drop.php:51
+#: functions/drag-drop.php:78 functions/drag-drop.php:105
+#: functions/drag-drop.php:132 functions/drag-drop.php:169
+#: functions/drag-drop.php:214 includes/widgets/widget-ad160x600.php:119
+#: includes/widgets/widget-ad300x250.php:120
+#: includes/widgets/widget-fraction-aweber.php:65
+#: includes/widgets/widget-fraction-contact.php:30
+#: includes/widgets/widget-fraction-gallery.php:21
+#: includes/widgets/widget-fraction-latest-posts.php:25
+#: includes/widgets/widget-fraction-popular-posts.php:23
+#: includes/widgets/widget-fraction-reviews.php:25
+#: includes/widgets/widget-fraction-social.php:21
+msgid "Title:"
+msgstr ""
+
+#: functions/drag-drop.php:24 functions/drag-drop.php:52
+#: functions/drag-drop.php:79 functions/drag-drop.php:106
+#: functions/drag-drop.php:133 functions/drag-drop.php:170
+#: functions/drag-drop.php:215 functions/fraction-menu.php:419
+msgid "Subtitle:"
+msgstr ""
+
+#: functions/drag-drop.php:25 functions/drag-drop.php:53
+#: functions/drag-drop.php:80 functions/drag-drop.php:107
+#: functions/drag-drop.php:134 functions/drag-drop.php:171
+#: functions/drag-drop.php:216
+msgid "Count:"
+msgstr ""
+
+#: functions/drag-drop.php:30 functions/drag-drop.php:58
+#: functions/drag-drop.php:85 functions/drag-drop.php:112
+#: functions/drag-drop.php:137 functions/drag-drop.php:176
+#: functions/drag-drop.php:221
+msgid "Set Category"
+msgstr ""
+
+#: functions/drag-drop.php:33 functions/drag-drop.php:61
+#: functions/drag-drop.php:88 functions/drag-drop.php:115
+#: functions/drag-drop.php:142 functions/drag-drop.php:179
+#: functions/drag-drop.php:224
+msgid ""
+"From which post should start the loop (for example 4 ), for default leave it "
+"empty, or add 0. (Offset):"
+msgstr ""
+
+#: functions/drag-drop.php:37 functions/drag-drop.php:65
+#: functions/drag-drop.php:92 functions/drag-drop.php:119
+#: functions/drag-drop.php:183
+msgid "Block Title Border Color:"
+msgstr ""
+
+#: functions/drag-drop.php:48 functions/drag-drop.php:103
+msgid "Large image left"
+msgstr ""
+
+#: functions/drag-drop.php:73 functions/drag-drop.php:100
+msgid "Popular News"
+msgstr ""
+
+#: functions/drag-drop.php:127 includes/widgets/widget-fraction-reviews.php:6
+#: includes/widgets/widget-fraction-reviews.php:12
+msgid "Reviews"
+msgstr ""
+
+#: functions/drag-drop.php:130
+msgid "Latest/Top reviews."
+msgstr ""
+
+#: functions/drag-drop.php:145 functions/drag-drop.php:227
+#: includes/widgets/widget-fraction-reviews.php:46
+msgid "Type:"
+msgstr ""
+
+#: functions/drag-drop.php:148 includes/widgets/widget-fraction-reviews.php:48
+msgid "Latest Reviews"
+msgstr ""
+
+#: functions/drag-drop.php:149 includes/widgets/widget-fraction-reviews.php:49
+msgid "Top Reviews"
+msgstr ""
+
+#: functions/drag-drop.php:156 functions/drag-drop.php:238
+#: includes/admin/style.php:147 includes/admin/style.php:165
+#: includes/admin/style.php:191
+msgid "Color:"
+msgstr ""
+
+#: functions/drag-drop.php:163 includes/widgets/widget-fraction-gallery.php:6
+#: includes/widgets/widget-fraction-gallery.php:12
+msgid "Latest Galleries"
+msgstr ""
+
+#: functions/drag-drop.php:166
+msgid "Latest Galleries Slider"
+msgstr ""
+
+#: functions/drag-drop.php:191
+msgid "Category News"
+msgstr ""
+
+#: functions/drag-drop.php:194
+msgid "Latest News By Categories"
+msgstr ""
+
+#: functions/drag-drop.php:196
+msgid "Post Count:"
+msgstr ""
+
+#: functions/drag-drop.php:209
+msgid "Shop"
+msgstr ""
+
+#: functions/drag-drop.php:212
+msgid "Shop Items"
+msgstr ""
+
+#: functions/drag-drop.php:230
+msgid "Latest"
+msgstr ""
+
+#: functions/drag-drop.php:231
+msgid "Featured"
+msgstr ""
+
+#: functions/drag-drop.php:248
+msgid "Custom HTML/Shortcodes Block"
+msgstr ""
+
+#: functions/drag-drop.php:250 functions/drag-drop.php:259
+msgid "HTML Code:"
+msgstr ""
+
+#: functions/drag-drop.php:257
+msgid "Supports HTML,CSS and Javascript."
+msgstr ""
+
+#: functions/filters.php:204
+msgid ""
+"Your e-mail address will not be published. Also other data will not be "
+"shared with third person."
+msgstr ""
+
+#: functions/filters.php:231
+msgid "by "
+msgstr ""
+
+#: functions/filters.php:236
+msgid "by"
+msgstr ""
+
+#: functions/fraction-menu.php:13
+msgid "Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:26 includes/admin/general.php:18
+msgid "General"
+msgstr ""
+
+#: functions/fraction-menu.php:33
+msgid "Post/Page Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:39 functions/fraction-menu.php:798
+#: functions/fraction-menu.php:829 includes/admin/sidebar.php:18
+msgid "Sidebar"
+msgstr ""
+
+#: functions/fraction-menu.php:60 includes/admin/style.php:300
+msgid "Blog Post Images/Video/Audio Size"
+msgstr ""
+
+#: functions/fraction-menu.php:67
+msgid "Large:"
+msgstr ""
+
+#: functions/fraction-menu.php:68
+msgid "Small:"
+msgstr ""
+
+#: functions/fraction-menu.php:88
+msgid "Show Image In Single Post / News Page"
+msgstr ""
+
+#: functions/fraction-menu.php:96 functions/fraction-menu.php:127
+#: functions/fraction-menu.php:153 functions/fraction-menu.php:179
+#: functions/fraction-menu.php:206 functions/fraction-menu.php:234
+#: functions/fraction-menu.php:261 functions/fraction-menu.php:287
+#: functions/fraction-menu.php:313 functions/fraction-menu.php:339
+#: functions/fraction-menu.php:507 functions/fraction-menu.php:518
+#: includes/admin/general.php:189 includes/admin/general.php:211
+#: includes/admin/general.php:233 includes/admin/general.php:255
+#: includes/admin/general.php:278 includes/admin/general.php:301
+#: includes/admin/general.php:327 includes/admin/general.php:351
+#: includes/admin/general.php:510 includes/admin/general.php:533
+#: includes/admin/sidebar.php:86
+msgid "Show:"
+msgstr ""
+
+#: functions/fraction-menu.php:97 functions/fraction-menu.php:128
+#: functions/fraction-menu.php:154 functions/fraction-menu.php:180
+#: functions/fraction-menu.php:207 functions/fraction-menu.php:235
+#: functions/fraction-menu.php:262 functions/fraction-menu.php:288
+#: functions/fraction-menu.php:314 functions/fraction-menu.php:340
+#: includes/admin/general.php:190 includes/admin/general.php:212
+#: includes/admin/general.php:234 includes/admin/general.php:256
+#: includes/admin/general.php:279 includes/admin/general.php:302
+#: includes/admin/general.php:328 includes/admin/general.php:352
+#: includes/admin/general.php:511 includes/admin/general.php:534
+msgid "Hide:"
+msgstr ""
+
+#: functions/fraction-menu.php:120
+msgid "Post Author"
+msgstr ""
+
+#: functions/fraction-menu.php:146
+msgid "Post Date"
+msgstr ""
+
+#: functions/fraction-menu.php:172
+msgid "Post Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:198 includes/admin/general.php:320
+msgid "Show Share Buttons"
+msgstr ""
+
+#: functions/fraction-menu.php:227
+msgid "Show Post Comments Count"
+msgstr ""
+
+#: functions/fraction-menu.php:254
+msgid "\"Similar News\" Block In Post"
+msgstr ""
+
+#: functions/fraction-menu.php:280
+msgid "\"About Author\" Block In Post"
+msgstr ""
+
+#: functions/fraction-menu.php:306
+msgid "\"Similar News\" Block In Gallery"
+msgstr ""
+
+#: functions/fraction-menu.php:332
+msgid "\"Similar News\" Block In Portfolio"
+msgstr ""
+
+#: functions/fraction-menu.php:357
+msgid "Show Breaking News Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:362
+msgid "Set Breaking News Slider Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:380
+msgid "Show Main Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:385
+msgid "Set Main News Slider Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:414
+msgid "Subtitle"
+msgstr ""
+
+#: functions/fraction-menu.php:434
+msgid "Homepage Posts"
+msgstr ""
+
+#: functions/fraction-menu.php:439
+msgid "Set Home News Categories"
+msgstr ""
+
+#: functions/fraction-menu.php:455 includes/news-single.php:72
+msgid "Spotlight"
+msgstr ""
+
+#: functions/fraction-menu.php:460
+msgid "Spotlight Post ID's:"
+msgstr ""
+
+#: functions/fraction-menu.php:461
+msgid ""
+"Add post ID that you want to see in Spotlight, separate them with ,<br/"
+">Example: 1,2,5"
+msgstr ""
+
+#: functions/fraction-menu.php:476
+msgid "Image Hover Icon"
+msgstr ""
+
+#: functions/fraction-menu.php:481
+msgid "Icon:"
+msgstr ""
+
+#: functions/fraction-menu.php:487
+msgid "Text Under the Image Icon:"
+msgstr ""
+
+#: functions/fraction-menu.php:502
+msgid "Show This Post In Breaking News Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:513
+msgid "Show This Post In Main Slider?"
+msgstr ""
+
+#: functions/fraction-menu.php:533
+msgid "Show Title in Single View?"
+msgstr ""
+
+#: functions/fraction-menu.php:540
+msgid "Yes:"
+msgstr ""
+
+#: functions/fraction-menu.php:541
+msgid "No:"
+msgstr ""
+
+#: functions/fraction-menu.php:557
+msgid "Video/Audio Embed Code"
+msgstr ""
+
+#: functions/fraction-menu.php:562
+msgid "Vimeo, Youtube, Soundcould or Mixcould Embed Code:"
+msgstr ""
+
+#: functions/fraction-menu.php:576
+msgid "Review Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:582 includes/single/post-ratings.php:54
+msgid "Overall"
+msgstr ""
+
+#: functions/fraction-menu.php:588
+msgid "Ratings"
+msgstr ""
+
+#: functions/fraction-menu.php:590
+msgid ""
+"Enter the ratings like this - Graphics:5; Gameplay:4,5; Sound:3; Storyline:4"
+msgstr ""
+
+#: functions/fraction-menu.php:605
+msgid "Contact Page Email"
+msgstr ""
+
+#: functions/fraction-menu.php:610
+#: includes/widgets/widget-fraction-contact.php:35
+msgid "Email:"
+msgstr ""
+
+#: functions/fraction-menu.php:625
+msgid "Contact Page Google Map"
+msgstr ""
+
+#: functions/fraction-menu.php:630
+msgid "Embed Code:"
+msgstr ""
+
+#: functions/fraction-menu.php:647
+msgid "Gallery Style"
+msgstr ""
+
+#: functions/fraction-menu.php:656
+msgid "Default:"
+msgstr ""
+
+#: functions/fraction-menu.php:657
+msgid "Lightbox:"
+msgstr ""
+
+#: functions/fraction-menu.php:675
+msgid "Post Banner"
+msgstr ""
+
+#: functions/fraction-menu.php:680
+msgid "Post Banner HTML Code"
+msgstr ""
+
+#: functions/fraction-menu.php:694
+msgid "Project Date"
+msgstr ""
+
+#: functions/fraction-menu.php:699
+msgid "Date"
+msgstr ""
+
+#: functions/fraction-menu.php:713
+msgid "Features"
+msgstr ""
+
+#: functions/fraction-menu.php:718
+msgid "Feautres"
+msgstr ""
+
+#: functions/fraction-menu.php:719
+msgid "Separate each feature with ;"
+msgstr ""
+
+#: functions/fraction-menu.php:733
+msgid "Button"
+msgstr ""
+
+#: functions/fraction-menu.php:738
+msgid "Button Title"
+msgstr ""
+
+#: functions/fraction-menu.php:744
+msgid "Button Subtitle"
+msgstr ""
+
+#: functions/fraction-menu.php:750
+msgid "Button Url"
+msgstr ""
+
+#: functions/fraction-menu.php:756
+msgid "Price"
+msgstr ""
+
+#: functions/fraction-menu.php:780
+msgid "Main Sidebar Side"
+msgstr ""
+
+#: functions/fraction-menu.php:786 functions/fraction-menu.php:817
+#: includes/admin/sidebar.php:45 includes/admin/sidebar.php:67
+msgid "Right:"
+msgstr ""
+
+#: functions/fraction-menu.php:787 functions/fraction-menu.php:818
+#: includes/admin/sidebar.php:44 includes/admin/sidebar.php:66
+msgid "Left:"
+msgstr ""
+
+#: functions/fraction-menu.php:794
+msgid "Main Sidebar Name"
+msgstr ""
+
+#: functions/fraction-menu.php:811
+msgid "Second Sidebar Side"
+msgstr ""
+
+#: functions/fraction-menu.php:825
+msgid "Second Sidebar Name"
+msgstr ""
+
+#: functions/fraction-menu.php:862
+msgid "Post Custom Settings"
+msgstr ""
+
+#: functions/fraction-menu.php:954
+msgid "Security check"
+msgstr ""
+
+#: functions/fraction-menu.php:1010
+msgid "Main Slider Image"
+msgstr ""
+
+#: functions/fraction-menu.php:1010 functions/fraction-menu.php:1011
+msgid "Image:"
+msgstr ""
+
+#: functions/fraction-menu.php:1011
+msgid "Reviews Block Image"
+msgstr ""
+
+#: functions/fraction-menu.php:1015
+msgid "Gallery Images"
+msgstr ""
+
+#: functions/fraction-menu.php:1019
+msgid "Portfolio Images"
+msgstr ""
+
+#: functions/fraction-menu.php:1027
+msgid "Homepage Builder"
+msgstr ""
+
+#: functions/nav.php:46
+msgid "Previous Page"
+msgstr ""
+
+#: functions/nav.php:47
+msgid "Next Page"
+msgstr ""
+
+#: functions/nav.php:95
+msgid "Previous"
+msgstr ""
+
+#: functions/other.php:61
+msgid "Main Sidebar Position "
+msgstr ""
+
+#: functions/other.php:62
+msgid "Main Sidebar"
+msgstr ""
+
+#: functions/other.php:63
+msgid "Second Sidebar Position "
+msgstr ""
+
+#: functions/other.php:64
+msgid "Second Sidebar"
+msgstr ""
+
+#: functions/other.php:65
+msgid "Breaking News Slider"
+msgstr ""
+
+#: functions/other.php:122
+msgid "Last Update: "
+msgstr ""
+
+#: functions/other.php:122
+msgid "Updated"
+msgstr ""
+
+#: functions/other.php:411 functions/other.php:455
+#: includes/sliders/breaking-news.php:77
+#: includes/widgets/widget-fraction-double.php:166
+#: includes/widgets/widget-fraction-latest-posts.php:139
+#: includes/widgets/widget-fraction-popular-posts.php:132
+#: includes/widgets/widget-fraction-reviews.php:143
+msgid "No posts where found"
+msgstr ""
+
+#: functions/other.php:415 functions/other.php:459
+msgid "Please Insert A category"
+msgstr ""
+
+#: functions/other.php:867 functions/other.php:927
+msgid "Delete image"
+msgstr ""
+
+#: functions/other.php:867 functions/other.php:927
+#: functions/tax-meta-class/tax-meta-class.php:250
+#: functions/tax-meta-class/tax-meta-class.php:883
+#: includes/theme-config.php:605
+msgid "Delete"
+msgstr ""
+
+#: functions/other.php:878
+msgid "Add images"
+msgstr ""
+
+#: functions/other.php:904
+msgid "Add Images to Product Gallery"
+msgstr ""
+
+#: functions/other.php:906
+msgid "Add to gallery"
+msgstr ""
+
+#: functions/other.php:1372
+msgid "Moderate or heavy snow in area with thunder"
+msgstr ""
+
+#: functions/other.php:1376
+msgid "Patchy light snow in area with thunder"
+msgstr ""
+
+#: functions/other.php:1380
+msgid "Moderate or heavy snow showers"
+msgstr ""
+
+#: functions/other.php:1384
+msgid "Light snow showers"
+msgstr ""
+
+#: functions/other.php:1388
+msgid "Ice pellets"
+msgstr ""
+
+#: functions/other.php:1392
+msgid "Heavy snow"
+msgstr ""
+
+#: functions/other.php:1396
+msgid "Patchy heavy snow"
+msgstr ""
+
+#: functions/other.php:1400
+msgid "Moderate snow"
+msgstr ""
+
+#: functions/other.php:1404
+msgid "Patchy moderate snow"
+msgstr ""
+
+#: functions/other.php:1408
+msgid "Light snow"
+msgstr ""
+
+#: functions/other.php:1412
+msgid "Patchy light snow"
+msgstr ""
+
+#: functions/other.php:1416
+msgid "Moderate or heavy sleet"
+msgstr ""
+
+#: functions/other.php:1420
+msgid "Light sleet"
+msgstr ""
+
+#: functions/other.php:1424
+msgid "Heavy freezing drizzle"
+msgstr ""
+
+#: functions/other.php:1428
+msgid "Freezing drizzle"
+msgstr ""
+
+#: functions/other.php:1432
+msgid "Light drizzle"
+msgstr ""
+
+#: functions/other.php:1436
+msgid "Patchy light drizzle"
+msgstr ""
+
+#: functions/other.php:1440
+msgid "Blizzard"
+msgstr ""
+
+#: functions/other.php:1444
+msgid "Blowing snow"
+msgstr ""
+
+#: functions/other.php:1448
+msgid "Moderate or heavy rain in area with thunder"
+msgstr ""
+
+#: functions/other.php:1452
+msgid "Patchy light rain in area with thunder"
+msgstr ""
+
+#: functions/other.php:1456
+msgid "Thundery outbreaks in nearby"
+msgstr ""
+
+#: functions/other.php:1460
+msgid "Moderate or heavy showers of ice pellets"
+msgstr ""
+
+#: functions/other.php:1464
+msgid "Light showers of ice pellets"
+msgstr ""
+
+#: functions/other.php:1468
+msgid "Moderate or heavy sleet showers"
+msgstr ""
+
+#: functions/other.php:1472
+msgid "Light sleet showers"
+msgstr ""
+
+#: functions/other.php:1476
+msgid "Torrential rain shower"
+msgstr ""
+
+#: functions/other.php:1480
+msgid "Moderate or heavy rain shower"
+msgstr ""
+
+#: functions/other.php:1484
+msgid "Light rain shower"
+msgstr ""
+
+#: functions/other.php:1488
+msgid "Moderate or Heavy freezing rain"
+msgstr ""
+
+#: functions/other.php:1492
+msgid "Light freezing rain"
+msgstr ""
+
+#: functions/other.php:1496
+msgid "Heavy rain"
+msgstr ""
+
+#: functions/other.php:1500
+msgid "Heavy rain at times"
+msgstr ""
+
+#: functions/other.php:1504
+msgid "Moderate rain"
+msgstr ""
+
+#: functions/other.php:1508
+msgid "Moderate rain at times"
+msgstr ""
+
+#: functions/other.php:1512
+msgid "Light rain"
+msgstr ""
+
+#: functions/other.php:1516
+msgid "Patchy light rain"
+msgstr ""
+
+#: functions/other.php:1520
+msgid "Patchy freezing drizzle nearby"
+msgstr ""
+
+#: functions/other.php:1524
+msgid "Patchy snow nearby"
+msgstr ""
+
+#: functions/other.php:1528
+msgid "Patchy rain nearby"
+msgstr ""
+
+#: functions/other.php:1532
+msgid "Freezing fog"
+msgstr ""
+
+#: functions/other.php:1536
+msgid "Fog"
+msgstr ""
+
+#: functions/other.php:1540
+msgid "Mist"
+msgstr ""
+
+#: functions/other.php:1544
+msgid "Overcast"
+msgstr ""
+
+#: functions/other.php:1548
+msgid "Cloudy"
+msgstr ""
+
+#: functions/other.php:1552
+msgid "Partly Cloudy"
+msgstr ""
+
+#: functions/other.php:1556
+msgid "Sunny"
+msgstr ""
+
+#: functions/other.php:1560
+msgid "Patchy sleet nearby"
+msgstr ""
+
+#: functions/other.php:1564
+msgid "Can't get any data."
+msgstr ""
+
+#: functions/other.php:1576 functions/other.php:1588
+msgid "Something went wrong with the connection!"
+msgstr ""
+
+#: functions/other.php:1591
+msgid "This option doesn't work on localhost!"
+msgstr ""
+
+#: functions/other.php:1595
+msgid "Please set up your API key!"
+msgstr ""
+
+#: functions/other.php:1643
+msgid "Search Results for"
+msgstr ""
+
+#: functions/other.php:1651
+msgid "Posts From"
+msgstr ""
+
+#: functions/other.php:1654
+msgid "Tag"
+msgstr ""
+
+#: functions/other.php:1662
+msgid "Archive"
+msgstr ""
+
+#: functions/other.php:1823
+msgid "<strong>0</strong> comments"
+msgstr ""
+
+#: functions/other.php:1825
+msgid " comments"
+msgstr ""
+
+#: functions/other.php:1827
+msgid "<strong>1</strong> comment"
+msgstr ""
+
+#: functions/other.php:2306
+msgid "Author"
+msgstr ""
+
+#: functions/other.php:2309
+#, php-format
+msgid " %1$s, %2$s"
+msgstr ""
+
+#: functions/other.php:2311
+msgid "Reply this comment"
+msgstr ""
+
+#: functions/register.php:14 includes/top.php:73 includes/top.php:83
+msgid "Main Menu"
+msgstr ""
+
+#: functions/register.php:15
+msgid "Second Menu"
+msgstr ""
+
+#: functions/register.php:27 functions/register.php:62
+msgid "Add New Item"
+msgstr ""
+
+#: functions/register.php:28 functions/register.php:63
+msgid "Edit Item"
+msgstr ""
+
+#: functions/register.php:29
+msgid "New Gallery Item"
+msgstr ""
+
+#: functions/register.php:30 functions/register.php:65
+msgid "View Item"
+msgstr ""
+
+#: functions/register.php:31
+msgid "Search Gallery Items"
+msgstr ""
+
+#: functions/register.php:32
+msgid "No gallery items found"
+msgstr ""
+
+#: functions/register.php:33
+msgid "No gallery items found in Trash"
+msgstr ""
+
+#: functions/register.php:64
+msgid "New Portfolio Item"
+msgstr ""
+
+#: functions/register.php:66
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: functions/register.php:67
+msgid "No portfolio items found"
+msgstr ""
+
+#: functions/register.php:68
+msgid "No portfolio items found in Trash"
+msgstr ""
+
+#: functions/register.php:73 functions/register.php:75
+#: functions/register.php:76
+msgid "Portfolio Categories"
+msgstr ""
+
+#: functions/register.php:111
+msgid "The default page sidebar."
+msgstr ""
+
+#: functions/register.php:112
+msgid "Footer widget area, supports up to 3 widgets."
+msgstr ""
+
+#: functions/register.php:114
+msgid "Woocommerce Page Sidebar"
+msgstr ""
+
+#: functions/register.php:117
+msgid "bbPress Page Sidebar"
+msgstr ""
+
+#: functions/register.php:120
+msgid "BuddyPress Page Sidebar"
+msgstr ""
+
+#: functions/register.php:123
+msgid ""
+"Sticky sidebar under the main sidebar, that will stay fixed while you scroll "
+"down the page"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:250
+msgid "Delete this image"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:357
+msgid "Cannot delete file. Something's wrong."
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:596
+msgid "Add"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:879
+msgid "Uploaded files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:890
+msgid "Upload new files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:896
+msgid "Add more files"
+msgstr ""
+
+#: functions/tax-meta-class/tax-meta-class.php:948
+msgid "Select a color"
+msgstr ""
+
+#: includes/banners.php:20 includes/banners.php:29 includes/banners.php:40
+msgid "Close"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:108
+msgid "Related photo galleries"
+msgstr ""
+
+#: includes/gallery-single-style-1.php:109
+msgid "Galleries from the same category"
+msgstr ""
+
+#: includes/news-single.php:113
+msgid "Pages:"
+msgstr ""
+
+#: includes/news-single.php:118
+msgid "Next page"
+msgstr ""
+
+#: includes/news-single.php:119
+msgid "Previous page"
+msgstr ""
+
+#: includes/portfolio-single.php:91
+msgid "Project Name"
+msgstr ""
+
+#: includes/portfolio-single.php:96
+msgid "Date Created"
+msgstr ""
+
+#: includes/portfolio-single.php:101
+msgid "About Project"
+msgstr ""
+
+#: includes/portfolio-single.php:115
+msgid "Some Features"
+msgstr ""
+
+#: includes/portfolio-single.php:161
+msgid "Similar Portfolio Items"
+msgstr ""
+
+#: includes/portfolio-single.php:162
+msgid "Items from the same category"
+msgstr ""
+
+#: includes/theme-config.php:356
+msgid "You didn't create a slider yet."
+msgstr ""
+
+#: includes/theme-config.php:581
+msgid ""
+"To add content to your Hompage, drag &amp; drop blocks from Available to "
+"Active area "
+msgstr ""
+
+#: includes/theme-config.php:584
+msgid "Active homepage blocks"
+msgstr ""
+
+#: includes/theme-config.php:604
+msgid "Edit"
+msgstr ""
+
+#: includes/theme-config.php:649
+msgid "Pagebuilder Import/Export"
+msgstr ""
+
+#: includes/theme-config.php:655 includes/admin/general.php:80
+msgid "Export Settings"
+msgstr ""
+
+#: includes/theme-config.php:661 includes/admin/general.php:87
+msgid "Import Settings"
+msgstr ""
+
+#: includes/theme-config.php:745
+msgid "Export"
+msgstr ""
+
+#: includes/theme-config.php:790
+msgid "Import"
+msgstr ""
+
+#: includes/theme-config.php:1363 includes/theme-config.php:1648
+msgid "Off"
+msgstr ""
+
+#: includes/theme-config.php:1490
+msgid ""
+"This options is disabled, to enable it you must set this option in "
+"<strong>theme management panel</strong> to custom."
+msgstr ""
+
+#: includes/theme-config.php:1543
+msgid "Sidebar name:"
+msgstr ""
+
+#: includes/theme-config.php:1601
+msgid "Add/Save"
+msgstr ""
+
+#: includes/theme-config.php:1650
+msgid "Woocommerce"
+msgstr ""
+
+#: includes/theme-config.php:1653
+msgid "bbPRess"
+msgstr ""
+
+#: includes/theme-config.php:1656
+msgid "BudyPress"
+msgstr ""
+
+#: includes/top.php:29
+msgid "Toggle Menu"
+msgstr ""
+
+#: includes/top.php:93
+msgid "Search.."
+msgstr ""
+
+#: includes/admin/general.php:19
+msgid "Blog"
+msgstr ""
+
+#: includes/admin/general.php:20
+msgid "Gallery/Portfolio"
+msgstr ""
+
+#: includes/admin/general.php:21
+msgid "Contact/Footer"
+msgstr ""
+
+#: includes/admin/general.php:22
+msgid "Banners"
+msgstr ""
+
+#: includes/admin/general.php:56
+msgid "Add logo image"
+msgstr ""
+
+#: includes/admin/general.php:61
+msgid "Add Header Logo Image"
+msgstr ""
+
+#: includes/admin/general.php:62
+msgid "Suggested image size is 467x60px"
+msgstr ""
+
+#: includes/admin/general.php:75
+msgid "Export/Import Theme Settings"
+msgstr ""
+
+#: includes/admin/general.php:120
+msgid "Unit Settings"
+msgstr ""
+
+#: includes/admin/general.php:125
+msgid "Show Search In Menu:"
+msgstr ""
+
+#: includes/admin/general.php:182
+msgid "Show thumbnail in open post/page"
+msgstr ""
+
+#: includes/admin/general.php:191 includes/admin/general.php:213
+#: includes/admin/general.php:235 includes/admin/general.php:257
+#: includes/admin/general.php:280 includes/admin/general.php:303
+#: includes/admin/general.php:353
+msgid "Custom For Each Post:"
+msgstr ""
+
+#: includes/admin/general.php:204
+msgid "Show Post Author In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:226
+msgid "Show Post Date In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:248
+msgid "Show Post Categories In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:271
+msgid "Show \"About Author\" In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:294
+msgid "Show \"Similar News\" In Single Post"
+msgstr ""
+
+#: includes/admin/general.php:329
+msgid "Custom For Each Post/Page:"
+msgstr ""
+
+#: includes/admin/general.php:344
+msgid "Show Post Comment Count"
+msgstr ""
+
+#: includes/admin/general.php:363 includes/admin/general.php:440
+#: includes/admin/style.php:239 includes/admin/style.php:321
+msgid "Save Changes"
+msgstr ""
+
+#: includes/admin/general.php:384
+#: includes/widgets/widget-fraction-contact.php:6
+msgid "Contact Information"
+msgstr ""
+
+#: includes/admin/general.php:389
+msgid "Facebook Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:395
+msgid "Twitter Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:400
+msgid "Google+ Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:405
+msgid "Youtube Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:410
+msgid "Vimeo Account URL:"
+msgstr ""
+
+#: includes/admin/general.php:424
+msgid "Footer CopyRight"
+msgstr ""
+
+#: includes/admin/general.php:429
+#: includes/widgets/widget-fraction-aweber.php:68
+#: includes/widgets/widget-fraction-contact.php:31
+#: includes/widgets/widget-fraction-social.php:22
+msgid "Text:"
+msgstr ""
+
+#: includes/admin/general.php:462
+msgid "Gallery Settings"
+msgstr ""
+
+#: includes/admin/general.php:467 includes/admin/general.php:487
+msgid "Items per gallery page:"
+msgstr ""
+
+#: includes/admin/general.php:482
+msgid "Portfolio Settings"
+msgstr ""
+
+#: includes/admin/general.php:503
+msgid "Show \"Similar Posts\" In Single Galley"
+msgstr ""
+
+#: includes/admin/general.php:512
+msgid "Custom For Each Gallery Page:"
+msgstr ""
+
+#: includes/admin/general.php:526
+msgid "Show \"Similar Posts\" In Single Portfolio"
+msgstr ""
+
+#: includes/admin/general.php:535
+msgid "Custom For Each Portfolio Page:"
+msgstr ""
+
+#: includes/admin/general.php:570
+msgid "Blog Page Banner"
+msgstr ""
+
+#: includes/admin/general.php:575 includes/admin/general.php:625
+msgid "Enable Banner"
+msgstr ""
+
+#: includes/admin/general.php:582 includes/admin/general.php:632
+msgid "Banner HTML Code"
+msgstr ""
+
+#: includes/admin/general.php:591
+msgid "Show banner after"
+msgstr ""
+
+#: includes/admin/general.php:620
+msgid "Default Single Post Banner"
+msgstr ""
+
+#: includes/admin/sidebar.php:37
+msgid "Main Sidebar Position"
+msgstr ""
+
+#: includes/admin/sidebar.php:46 includes/admin/sidebar.php:68
+msgid "Custom For Each Page:"
+msgstr ""
+
+#: includes/admin/sidebar.php:59
+msgid "Second Sidebar Position"
+msgstr ""
+
+#: includes/admin/sidebar.php:81
+msgid "Show The Sticky Sidebar Under Main Sidebar"
+msgstr ""
+
+#: includes/admin/sidebar.php:100
+msgid "Add Sidebar"
+msgstr ""
+
+#: includes/admin/sidebar.php:105
+msgid "Add New Sidebar:"
+msgstr ""
+
+#: includes/admin/sidebar.php:119
+msgid "Sidebar Sequence"
+msgstr ""
+
+#: includes/admin/sidebar.php:120
+msgid "To sort the slides just drag and drop them!"
+msgstr ""
+
+#: includes/admin/sidebar.php:125
+msgid "Order Sidebars"
+msgstr ""
+
+#: includes/admin/style.php:6
+msgid "Style Settings"
+msgstr ""
+
+#: includes/admin/style.php:18
+msgid "Font Style"
+msgstr ""
+
+#: includes/admin/style.php:19
+msgid "Page Colors/Style"
+msgstr ""
+
+#: includes/admin/style.php:20
+msgid "Layout"
+msgstr ""
+
+#: includes/admin/style.php:39
+msgid "Main font family:"
+msgstr ""
+
+#: includes/admin/style.php:42 includes/admin/style.php:50
+#: includes/admin/style.php:58 includes/admin/style.php:67
+msgid ""
+"Font previews You Can find here: <a href='http://www.google.com/webfonts' "
+"target='_blank'>Google Fonts</a>"
+msgstr ""
+
+#: includes/admin/style.php:47
+msgid "Titles font family:"
+msgstr ""
+
+#: includes/admin/style.php:55
+msgid "Article titles font family:"
+msgstr ""
+
+#: includes/admin/style.php:64
+msgid "Main font size:"
+msgstr ""
+
+#: includes/admin/style.php:82
+msgid "Font Character Sets"
+msgstr ""
+
+#: includes/admin/style.php:87
+msgid "Cyrillic Extended (cyrillic-ext):"
+msgstr ""
+
+#: includes/admin/style.php:92
+msgid "Cyrillic (cyrillic):"
+msgstr ""
+
+#: includes/admin/style.php:97
+msgid "Greek Extended (greek-ext):"
+msgstr ""
+
+#: includes/admin/style.php:102
+msgid "Greek (greek):"
+msgstr ""
+
+#: includes/admin/style.php:107
+msgid "Vietnamese (vietnamese):"
+msgstr ""
+
+#: includes/admin/style.php:112
+msgid "Latin Extended (latin-ext):"
+msgstr ""
+
+#: includes/admin/style.php:141
+msgid "Default Category/News page Color"
+msgstr ""
+
+#: includes/admin/style.php:159
+msgid "Main color scheme"
+msgstr ""
+
+#: includes/admin/style.php:182
+msgid "Body Backgrounds (only boxed view)"
+msgstr ""
+
+#: includes/admin/style.php:189
+msgid "Pattern:"
+msgstr ""
+
+#: includes/admin/style.php:190
+msgid "Custom Image:"
+msgstr ""
+
+#: includes/admin/style.php:201
+msgid "Texture 1"
+msgstr ""
+
+#: includes/admin/style.php:202
+msgid "Texture 2"
+msgstr ""
+
+#: includes/admin/style.php:203
+msgid "Texture 3"
+msgstr ""
+
+#: includes/admin/style.php:204
+msgid "Texture 4"
+msgstr ""
+
+#: includes/admin/style.php:205
+msgid "Texture 5"
+msgstr ""
+
+#: includes/admin/style.php:206
+msgid "Texture 6"
+msgstr ""
+
+#: includes/admin/style.php:215
+msgid "Body Background Color:"
+msgstr ""
+
+#: includes/admin/style.php:225
+msgid "Body Background Image:"
+msgstr ""
+
+#: includes/admin/style.php:259
+msgid "Enable Responsive"
+msgstr ""
+
+#: includes/admin/style.php:264
+msgid "Enable"
+msgstr ""
+
+#: includes/admin/style.php:279
+msgid "Page Layout"
+msgstr ""
+
+#: includes/admin/style.php:286
+msgid "Boxed:"
+msgstr ""
+
+#: includes/admin/style.php:287
+msgid "Wide:"
+msgstr ""
+
+#: includes/admin/style.php:307
+msgid "Large Images:"
+msgstr ""
+
+#: includes/admin/style.php:308
+msgid "Small Images:"
+msgstr ""
+
+#: includes/admin/style.php:309
+msgid "Custom in Each Post:"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:135
+#: includes/lib/class-tgm-plugin-activation.php:155
+msgid "Install Required Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:136
+#: includes/lib/class-tgm-plugin-activation.php:156
+msgid "Install Plugins"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:137
+#: includes/lib/class-tgm-plugin-activation.php:157
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:138
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:149
+#: includes/lib/class-tgm-plugin-activation.php:169
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: includes/admin/functions/default-values.php:150
+#: includes/lib/class-tgm-plugin-activation.php:171
+#: includes/lib/class-tgm-plugin-activation.php:1840
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: includes/admin/functions/default-values.php:151
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/home-blocks/latest-galleries.php:20
+msgid "View More Galleries"
+msgstr ""
+
+#: includes/home-blocks/latest-news-1.php:19
+#: includes/home-blocks/latest-news-2.php:21 includes/home-blocks/shop.php:19
+msgid "View More Posts"
+msgstr ""
+
+#: includes/home-blocks/latest-news-1.php:77 includes/loop/post.php:53
+#: includes/single/post-ratings.php:41 includes/single/post-ratings.php:87
+#: includes/widgets/widget-fraction-reviews.php:136
+msgid "out of 5"
+msgstr ""
+
+#: includes/home-blocks/latest-news-1.php:78 includes/loop/post.php:54
+msgid "Rating:"
+msgstr ""
+
+#: includes/home-blocks/latest-news-1.php:78
+#: includes/home-blocks/reviews.php:45 includes/home-blocks/reviews.php:47
+#: includes/loop/post.php:54
+msgid "out of 5 stars"
+msgstr ""
+
+#: includes/home-blocks/reviews.php:45
+msgid "Rated"
+msgstr ""
+
+#: includes/home-blocks/shop.php:35
+msgid "Sale!"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:158
+msgid "Something went wrong."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:170
+msgid "Return to the dashboard"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:172
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:173
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:174
+msgid "Dismiss this notice"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1085
+msgid "External Link"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1090
+msgid "Private Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1093
+msgid "Pre-Packaged"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1097
+msgid "WordPress Repository"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Required"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1100
+msgid "Recommended"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1103
+msgid "Not Installed"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1105
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1275
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1291
+msgid "Plugin"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1292
+msgid "Source"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1293
+msgid "Type"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1294
+msgid "Status"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1312
+msgid "Install"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1313
+msgid "Activate"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1823
+msgid "Install package not available."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1824
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1825
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1826
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1827
+msgid "Plugin install failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1828
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1839
+msgid "Plugin activation failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1949
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Show Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1950
+#: includes/lib/class-tgm-plugin-activation.php:1959
+msgid "Hide Details"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1951
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1952
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1956
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1957
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1959
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1960
+msgid "All installations have been completed."
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:1961
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: includes/lib/class-tgm-plugin-activation.php:2052
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: includes/loop/no-post.php:17
+msgid "No Post Found"
+msgstr ""
+
+#: includes/single/about-author.php:23
+msgid "About Author"
+msgstr ""
+
+#: includes/single/about-author.php:24
+msgid "More info about author"
+msgstr ""
+
+#: includes/single/about-author.php:52
+msgid "More by"
+msgstr ""
+
+#: includes/single/post-ratings.php:19
+msgid "Review Summary"
+msgstr ""
+
+#: includes/single/post-ratings.php:20
+msgid "Details about this item"
+msgstr ""
+
+#: includes/single/post-ratings.php:70
+msgid "Excellent"
+msgstr ""
+
+#: includes/single/post-ratings.php:72
+msgid "Good"
+msgstr ""
+
+#: includes/single/post-ratings.php:74
+msgid "Average"
+msgstr ""
+
+#: includes/single/post-ratings.php:76
+msgid "Fair"
+msgstr ""
+
+#: includes/single/post-ratings.php:78
+msgid "Poor"
+msgstr ""
+
+#: includes/single/post-ratings.php:80
+msgid "Very Poor"
+msgstr ""
+
+#: includes/single/post-related.php:36
+msgid "Related Tech Articles"
+msgstr ""
+
+#: includes/single/post-related.php:37
+msgid "Similar Posts From Tech Category"
+msgstr ""
+
+#: includes/single/share.php:13
+msgid "Share This Article"
+msgstr ""
+
+#: includes/single/share.php:14
+msgid "Do the sharing thingy"
+msgstr ""
+
+#: includes/sliders/breaking-news.php:46
+msgid "Breaking News"
+msgstr ""
+
+#: includes/widgets/widget-ad160x600.php:34
+msgid ""
+"A widget that allows the display and configuration of of a single 160x600 "
+"Banner."
+msgstr ""
+
+#: includes/widgets/widget-ad160x600.php:40
+msgid " Custom 160x600 Ad"
+msgstr ""
+
+#: includes/widgets/widget-ad160x600.php:125
+#: includes/widgets/widget-ad300x250.php:126
+msgid "Ad image url:"
+msgstr ""
+
+#: includes/widgets/widget-ad160x600.php:131
+#: includes/widgets/widget-ad300x250.php:132
+msgid "Ad link url:"
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:35
+msgid ""
+"A widget that allows the display and configuration of of a single 300x250 "
+"Banner."
+msgstr ""
+
+#: includes/widgets/widget-ad300x250.php:41
+msgid " Custom 300x250 Ad"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:70
+msgid "Click here to get your authorization code."
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:71
+msgid "<strong>Step 2:</strong>\tPaste in your authorization code:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:79
+msgid "Select the list you'd like people to subscribe to:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:81
+msgid "Select A List"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:88
+msgid ""
+"This AWeber account does not currently have any lists or your authorization "
+"code is incorrect!"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:151
+msgid "Success! Everything went well, You are now subscribed !"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:157
+msgid "Error Occurred!"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:163
+msgid "Loading.. <br/>This may take a few seconds !"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:172
+msgid "Name"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:175
+msgid "E-mail address"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:178
+msgid "Subscribe"
+msgstr ""
+
+#: includes/widgets/widget-fraction-aweber.php:184
+msgid "There is no list selected."
+msgstr ""
+
+#: includes/widgets/widget-fraction-contact.php:33
+msgid "Address:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-contact.php:34
+msgid "Phone:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:24
+msgid "Recent Post Count:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:25
+msgid "Recent Post Category:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:38
+#: includes/widgets/widget-fraction-double.php:86
+#: includes/widgets/widget-fraction-latest-posts.php:39
+#: includes/widgets/widget-fraction-popular-posts.php:37
+#: includes/widgets/widget-fraction-reviews.php:39
+msgid "Latest News"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:45
+msgid "Comment Count:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:85
+msgid "Comments"
+msgstr ""
+
+#: includes/widgets/widget-fraction-double.php:124
+msgid "View comment"
+msgstr ""
+
+#: includes/widgets/widget-fraction-gallery.php:22
+msgid "Item shown:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:6
+#: includes/widgets/widget-fraction-latest-posts.php:12
+msgid "Latests News"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:26
+#: includes/widgets/widget-fraction-popular-posts.php:24
+#: includes/widgets/widget-fraction-reviews.php:26
+msgid "Category:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:46
+msgid "Images:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:48
+msgid "Show"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:49
+msgid "Hide"
+msgstr ""
+
+#: includes/widgets/widget-fraction-latest-posts.php:53
+#: includes/widgets/widget-fraction-popular-posts.php:45
+#: includes/widgets/widget-fraction-reviews.php:53
+msgid "Post count:"
+msgstr ""
+
+#: includes/widgets/widget-fraction-popular-posts.php:6
+#: includes/widgets/widget-fraction-popular-posts.php:12
+msgid "Popular Posts"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:55
+msgid "likes"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:56
+msgid "facebook"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:59
+msgid "tweets"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:60
+msgid "twitter"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:63
+msgid "+1's"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:64
+msgid "google+"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:67
+msgid "shares"
+msgstr ""
+
+#: includes/widgets/widget-fraction-social.php:68
+msgid "linkedin"
+msgstr ""
+
+#: js/scripts.php:12 js/scripts.php:39
+msgid "You didn't enter Your First Name."
+msgstr ""
+
+#: js/scripts.php:14 js/scripts.php:41
+msgid "First Name is the wrong length."
+msgstr ""
+
+#: js/scripts.php:25 js/scripts.php:52
+msgid "You didn't enter an email address."
+msgstr ""
+
+#: js/scripts.php:27 js/scripts.php:54
+msgid "The email address contains illegal characters."
+msgstr ""
+
+#: js/scripts.php:66
+msgid "You didn't enter Your message."
+msgstr ""
+
+#: js/scripts.php:68
+msgid "The message is to short."
+msgstr ""
+
+#: js/scripts.php:76
+msgid "Please select at least one checkbox!"
+msgstr ""

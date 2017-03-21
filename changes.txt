@@ -1,0 +1,104 @@
+Version 1.1.0
+* Edited Files
+style.css
+css/main-stylesheet.css
+functions/others.php
+functions/ajax.php
+js/scripts.js
+includes/single/about-author.php
+includes/lib/plugins/js_composer.zip
+
+Version 1.0.9
+* Edited Files
+style.css
+includes/admin/general.php
+
+Version 1.0.8
+* Edited Files
+style.css
+css/responsive.css
+includes/loop/loop-end.php
+includes/loop/loop-start.php
+includes/sidebar.php
+icludes/sidebar-small.php
+
+Version 1.0.7
+* Edited Files
+style.css
+includes/loop/image.php
+home-blocks/latest-news-1.php
+functions/filters.php	
+functions/other.php	
+includes/lib/plugins/js_composer.zip
+js/theme-scripts.js
+css/main-stylesheet.css
+
+Version 1.0.6
+* Edited Files
+style.css
+js/dat-menu.js
+
+
+Version 1.0.5
+* Edited Files
+style.css
+includes/news-single.php
+
+
+Version 1.0.4
+* Edited Files
+style.css
+includes/home-blocks/shop.php
+includes/lib/plugins/js_composer.zip
+includes/news/single.php
+includes/admin/general.php
+js/ot_gallery.js
+
+
+Version 1.0.3
+* Edited Files
+style.css
+includes/admin/general.php
+
+
+Version 1.0.2
+* Edited Files
+style.css
+functions.php
+template-portfolio.php
+single.php
+index.php
+css/main-stylesheet.css
+css/responsive.css
+js/theme-scripts.js
+functions/register.php
+functions/other.php
+functions/fraction-menu.php
+includes/portfolio-single.php
+includes/single/page-title.php
+includes/admin/general.php
+includes/admin/style.php
+includes/top.php
+images/no-image-784x580.jpg
+images/no-image-90x90.jpg
+languages/
+
+Version 1.0.1
+* Edited Files
+style.css
+functions/fraction-menu.php
+functions/register.php
+functions/filters.php
+functions.php
+includes/news-single.php
+includes/single/about-author.php
+includes/admin/general.php
+includes/admin/functions/default-values.php
+css/dat-menu.css
+css/main-stylesheet.css
+css/responsive.css
+
+Version 1.0.0
+* Initial Release
+
+

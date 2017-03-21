@@ -1,0 +1,1 @@
+[27-Feb-2015 12:59:42 America/Chicago] PHP Fatal error:  Call to undefined function get_post_type() in /home/elpuntod/public_html/wp-content/themes/fraction-theme/index.php on line 3
